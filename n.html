@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Nokia Composer</title>
+    <style>
+      @font-face {
+        font-family: 'N';
+        src: url('N.ttf');
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        font-family: 'N';
+        font-size: 5vmin;
+        border: 0;
+        outline: 0;
+        background: #7a8;
+        color: #000;
+      }
+      a {
+        font-weight: bold;
+        text-decoration: none;
+      }
+      body {
+        width: 15rem;
+        margin: 4rem auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="display:flex;flex-direction:column;align-items:stretch;">
+      <div style="display:flex;margin-bottom:1rem;">
+        <label for="bpm">BPM:</label><input id="bpm" value="120" size="3" />
+        <span style="flex:1"></span>
+        <a target="_blank" href="/h/">?</a>
+      </div>
+      <div id="song" contenteditable="true" spellcheck="false"></div>
+      <a
+        id="btn"
+        style="margin:1rem;text-align:center;"
+        href="#"
+        onclick="togglePlayback()"
+        >Play</a
+      >
+    </div>
+    <script>
+      // This is a little shim to make the composer a bit more usable
+
+      // Safari does not support AudioContext yet
+      window.AudioContext = window.AudioContext || window.webkitAudioContext;
+      // Load song from the URL
+      try {
+        const data = JSON.parse(atob(location.hash.slice(1)));
+        console.log(data);
+        bpm.value = data.bpm;
+        song.innerText = data.song;
+      } catch (ignored) {
+        // Nokia ringtone, by default
+        bpm.value = '120';
+        song.innerText = `16e2 16d2 8f# 8g# 16c#2 16b 8d 8e 16b 16a 8c# 8e 2a 2-`;
+      }
+      // Toggle playback on Ctrl+Enter
+      song.onkeydown = e => {
+        if (e.ctrlKey && e.keyCode === 13) {
+          e.preventDefault();
+          togglePlayback();
+        }
+      };
+      // Auto-song to URI
+      (song.oninput = bpm.oninput = () => {
+        location.hash = btoa(
+          JSON.stringify({bpm: bpm.value, song: song.innerText}),
+        );
+      })();
+      // Play song or stop the playback
+      function togglePlayback() {
+        if (C) {
+          stop();
+          btn.innerText = 'Play';
+        } else {
+          btn.innerText = 'Stop';
+          play(song.innerText, c(bpm.value, 40, 400));
+        }
+      }
+    </script>
+    <script src="n.min.js"></script>
+  </body>
+</html>
