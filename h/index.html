@@ -1,9 +1,72 @@
-<!doctype>
+<!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Nokia Composer - Help</title>
+    <style>
+      @font-face {
+        font-family: 'N';
+        src: url('../N.ttf');
+      }
+      * { margin: 0; padding: 0; font-family: 'N'; }
+      body {
+        margin: 40px auto;
+        max-width: 650px;
+        line-height: 1.5;
+        font-size: 18px;
+        color: #333;
+        padding: 0 10px;
+        background: #7b8;
+        font-size: 3vmin;
+      }
+      a { color: #666; }
+      p {margin-top: 1rem; }
+      h1, h2 { line-height: 1.2; margin-top: 1rem; }
+    </style>
   </head>
   <body>
     <h1>Nokia Composer</h1>
+    <p>
+      Composer was a classic Nokia phone application which allowed to compose ring tones phones by pressing the phones buttons to make certain sounds.</p>
+
+    <h2>Notes and rests</h2>
+
+    <p>
+      A melody in composer format is a sequence of notes, separated by whitespace. Notes can be upper-case or lower-case from <b>C</b> (do) to <b>B</b> (ti).
+    </p>
+
+    <p> &gt;&nbsp;
+      <a target="_blank" href="../#eyJicG0iOiIxMjAiLCJzb25nIjoiYyBkIGUgZiBnIGEgYiJ9">c d e f g a b</a>
+    </p>
+
+    <p>Note duration can be written before the note symbol. Dot increases the note duration by half. Default note duration is 1/4th.</p>
+
+    <p> &gt;&nbsp;
+      <a target="_blank" href="../#eyJicG0iOiIxNDAiLCJzb25nIjoiNC5jIDhkIDQuZSA4YyA0ZSA0YyA0ZSJ9">4.c 8d 4.e 8c 4e 4c 4e</a>
+    </p>
+
+    <p>Rests are indicated by the "-" character</p>
+    <p> &gt;&nbsp;
+      <a target="_blank" href="../#eyJicG0iOiIxNDAiLCJzb25nIjoiMTYuZyAzMi0gMTYuZyAzMi0gMTYuZyAzMi0gMWUifQ=="> 16.g 32- 16.g 32- 16.g 32- 1e</a>
+    </p>
+
+    <p><b>"#"</b> makes the note sharp (must be written in front of the note), e.g. "8.#f". There are no flat notes.</p>
+    <p>Octave can be written after the note. Default octave is 1. Supported octaves are 1 to 3.</p>
+    <p> &gt;&nbsp;
+      <a target="_blank" href="../#eyJicG0iOiIxMjAiLCJzb25nIjoiMTZlMiAxNmQyIDgjZiA4I2cgMTYjYzIgMTZiIDhkIDhlIDE2YiAxNmEgOCNjIDhlIDJhIn0=">
+        16e2 16d2 8#f 8#g 16#c2 16b 8d 8e 16b 16a 8#c 8e 2a
+      </a>
+    </p>
+
+    <p>Tempo can be set in the BPM field.</p>
+
+    <p>You can share composed melodies by sending the complete URL. It contains the tempo and the melody. You may bookmark melodies in your browser to play them later.</p>
+
+    <p>Have fun!</p>
+
+    <p><a target="_blank" href="../">Launch Composer</a></p>
+
+    <p>P.S. if you found an issue or would like to contribute - it's on <a href="https://github.com/zserge/nokia-composer/">github</a>.</p>
   </body>
 </html>
