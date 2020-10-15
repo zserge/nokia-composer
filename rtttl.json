@@ -1,0 +1,1307 @@
+[
+  {
+    "title": "Abba: Mamma Mia",
+    "bpm": 40,
+    "song": "32f2 32#d2 32f2 8#d2 32#d2 32#d2 32f2 32g2 32f2 16.#d2 32- 16f2 8#d2 16#g2 32#g2 32#g2 32#g2 16g2 16.#d2 32- 8#a2 32#a2 32#a2 16#a2 16f2 16g2 8#g2 16g2 16g2 32g2 16g2 16d2 16#d2 8f2 16f2 8#d2 16#g2 32#g2 32#g2 32#g2 32g2 32#d2 32f2 16#d2"
+  },
+  {
+    "title": "Abba: Money Money Money v1",
+    "bpm": 112,
+    "song": "8e3 8e3 8e3 8e3 8e3 8e3 16e2 16a2 16c3 16e3 8#d3 8#d3 8#d3 8#d3 8#d3 8#d3 16f2 16a2 16c3 16#d3 4d3 8c3 8a2 8c3 4c3 2a2 32a2 32c3 32e3 8a3"
+  },
+  {
+    "title": "Abba: Money Money Money v2",
+    "bpm": 200,
+    "song": "4a1 8b1 4c2 8a1 4b1 4c2 4- 4c2 8a1 4b1 4c2 4- 4b1 8a1 4c2 4.c2 16- 1a1"
+  },
+  {
+    "title": "Adams Family v1",
+    "bpm": 70,
+    "song": "8#f1 16#f1 16#f1 16#f1 8b1 32#d2 8b1 32#g1 8e1 8#c2 32a1 8#a1 32#c2 8#a1 32#f1 8#d1 8b1 32#f1 8b1 32#d2 8b1 32#g1 8e1 8#c2 32b1 8#a1 32#f1 8#g1 32#a1 4b1 32#f1 8b1 32#d2 8b1 32#g1 8e1 8#c2 32a1 8#a1 32#c2 8#a1 32#f1 8#d1 8b1 32#f1 8b1 32#d2 8b1 32#g1 8e1"
+  },
+  {
+    "title": "Adams Family v2",
+    "bpm": 160,
+    "song": "8c2 4f2 8a2 4f2 8c2 4b1 2g2 8f2 4e2 8g2 4e2 8e1 4a1 2f2 8c2 4f2 8a2 4f2 8c2 4b1 2g2 8f2 4e2 8c2 4d2 8e2 1f2 8c2 8d2 8e2 8f2 1- 8d2 8e2 8#f2 8g2 1- 8d2 8e2 8#f2 8g2 4- 8d2 8e2 8#f2 8g2 4- 4c2 8e2 1f2"
+  },
+  {
+    "title": "Aerosmith: I Don't Wanna Miss A Thing",
+    "bpm": 125,
+    "song": "2- 16a1 16- 16a1 16- 8a1 16- 4a2 16g2 16- 2g2 16- 4- 8- 16g2 16- 16g2 16- 16g2 8g2 16- 4c2 16#a1 16- 4a2 8g2 4f2 4g2 8d2 8f2 16- 16f2 16- 16c2 8c2 16- 4a2 8g2 16f2 16- 8f2 16- 16c2 16- 4g2 4f2"
+  },
+  {
+    "title": "Aha: Take on me",
+    "bpm": 100,
+    "song": "8- 16#a1 16#a1 16#a1 8#f1 8#d1 8#g1 8#g1 16#g1 16c2 16c2 16#c2 16#d2 16#c2 16#c2 16#c2 8#g1 8#f1 8#a1 8#a1 16#a1 16#g1 16#g1 16#a1 16#g1 16#a1 16#a1 16#a1 8#f1 8#d1 8#g1 8#g1 16#g1 16c2 16c2 16#c2 16#d2 16#c2 16#c2 16#c2 8#g1 8#f1 8#a1 8#a1"
+  },
+  {
+    "title": "Airwolf",
+    "bpm": 100,
+    "song": "4e1 16a1 16b1 16d2 4e2 16g2 16#f2 16d2 4e2 16g2 16#f2 16d2 4e2 8d2 16#f2 4b1 4a1 8g1 16a1 8#f1 16d1 4g1 16c2 16d2 16f2 4g2 16c2 16b2 16f2 4g2 16c2 16b2 16f2 4g2 8f2 16a2 4d2 4c2 8b1 16d2 8a1 16f1 4g1 16c2 16d2 16f2 4g2 16c2 16b2 16f2"
+  },
+  {
+    "title": "Alice DJ: Back In My Life",
+    "bpm": 140,
+    "song": "1c2 4- 8c2 8c2 8e2 8c2 8b1 1c2 4- 8- 8c2 8c2 8e2 8c2 8b1 1c2 8g1 4b1 8b1 4b1 4c2 1c2 2- 4- 8c2 8d2 8c2 16e2 16d2 1c2"
+  },
+  {
+    "title": "Alice DJ: Better off Alone",
+    "bpm": 140,
+    "song": "8c2 8- 8c2 8a1 8- 8c2 8- 8c2 8- 8b1 8- 8g1 8g2 16- 8g2 16- 8e2 8c2 8- 8c2 8a1 8-  4c2 8c2 8- 8b1 8- 8g1 8f2 16- 8f2 16-"
+  },
+  {
+    "title": "Ann Lee: Two Times",
+    "bpm": 63,
+    "song": "8#a1 16#a1 16#c2 16#a1 16#c2 8#a1 8#a1 16#a1 16b1 16#a1 16b1 8#a1 8#a1 16#a1 16#c2 16#a1 16#c2 8#a1 8#a1 16#a1 16b1 16#a1 16b1 8#a1 8#a1 16#a1 16#c2 16#a1 16#c2 8#a1 8#a1 16#a1 16b1 16#a1 16b1 8#a1 8#a1 16#a1 16#c2 16#a1 16#c2 8#a1 8#a1 16#a1 16b1 16#a1 16b1 8#a1 8#a1 16#a1"
+  },
+  {
+    "title": "Aqua: Barbie Girl",
+    "bpm": 125,
+    "song": "8#g2 8e2 8#g2 8#c3 4a2 4- 8#f2 8#d2 8#f2 8b2 4#g2 8#f2 8e2 4- 8e2 8#c2 4#f2 4#c2 4- 8#f2 8e2 4#g2 4#f2"
+  },
+  {
+    "title": "Aqua: Lollipop",
+    "bpm": 140,
+    "song": "8#d1 8c2 8f1 8c2 8f1 8c2 8f1 8#d2 8f1 8#c2 8#a1 8#c2 8#a1 8#c2 8#g1 16#c2 16#d2 16e2 16f2 8c2 8f1 8c2 8f1 8c2 8f1 8#d2 8f1 8#c2 8#a1 8#c2 8#a1 8#c2 8#g1 8#a1 8f1 8c2 8f1 8c2 8f1 8c2 8f1 8#d2 8f1 8#c2 8#a1 8#c2 8#a1 8#c2 8#g1 16#c2"
+  },
+  {
+    "title": "ATB: 9PM",
+    "bpm": 140,
+    "song": "8a1 8a1 8b1 4a1 16c2 8- 16- 16c2 8- 16- 8c2 8e2 8d2 4f1 4- 8g1 8g1 8a1 4g1 16a1 8- 16- 8c2 8- 8c2 8d2 8c2 4g1"
+  },
+  {
+    "title": "A-Team",
+    "bpm": 100,
+    "song": "1d2 4d2 4e2 2#f2 1g2 4a2 4a1 4d2 4#c2 8#f2 8#f2 8e2 4#f2 4e2 4#f2 4e2 8e2 4b2 4a2 8#f2 8#f2 8e2 4#f2 4e2 4d2 4d2 8e2 2e2 8#f2 8#f2 8e2 4#f2 4e2 4#f2 4e2 8e2 4b2 4a2 8#f2 8#f2 8e2 4#f2 4e2 4d2 4d2 8e2 2e2"
+  },
+  {
+    "title": "Auld Lang Syne",
+    "bpm": 100,
+    "song": "4g1 4.c2 8c2 4c2 4e2 4.d2 8c2 4d2 8e2 8d2 4.c2 8c2 4e2 4g2 2.a2 4a2 4.g2 8e2 4e2 4c2 4.d2 8c2 4d2 8e2 8d2 4.c2 8a1 4a1 4g1 2c2"
+  },
+  {
+    "title": "Austin Powers",
+    "bpm": 100,
+    "song": "4b1 8#c2 4#c2 4e2 8#c2 8#f2 4e2 4#c2 4e2 8g2 8e2 8a2 8g2 8e2 4e2 8e2 8e2 8b1 4d2 8e2 8b1 4d2 8e2 8b1 4d2 8e2 4d2 8e2 8e2 8d2 8e2 8g2 8a2 8g2 4b2 4b2 8d2 4b2 8d2 8e2 8e2 8e2 8d2 8b2 8a2 8g2 8d2 8e2 8b1 8d2"
+  },
+  {
+    "title": "Avril Lavigne: Sk&er Boy",
+    "bpm": 160,
+    "song": "8a1 8a1 8a1 8#a1 8a1 4f1 8a1 8a1 8a1 8a1 8#a1 8a1 4f1 8f1 8f1 8f1 4e1 4e1 4g1 4e1 4.f1 8- 8a1 8a1 8a1 8#a1 8a1 4f1 8a1 8a1 8a1 8a1 8#a1 8a1 4f1 8f1 8f1 8f1 4e1 4e1 4g1 4e1 4.f1"
+  },
+  {
+    "title": "Axel F",
+    "bpm": 100,
+    "song": "4g2 8.#a2 16g2 16- 16g2 8c3 8g2 8f2 4g2 8.d3 16g2 16- 16g2 8#d3 8d3 8#a2 8g2 8d3 8g3 16g2 16f2 16- 16f2 8d2 8a2 2g2"
+  },
+  {
+    "title": "Backstreet Boys: As Long As You Love Me",
+    "bpm": 200,
+    "song": "4#g1 32- 4#g1 4g1 4f1 4g1 2- 4- 4g1 4g1 4#g1 4#a1 4#d1 4- 2- 2- 4c1 2#d1 32- 4f1 4g1 2f1 32- 4#d1 4d1 2#d1 2-"
+  },
+  {
+    "title": "Baddiel and Skinner: Three Lions",
+    "bpm": 100,
+    "song": "4a1 4g1 8f1 4e1 4d1 4- 4g1 4g1 4e1 8g1 8a1 4e1 4- 4a1 4g1 4f1 8e1 4d1 4- 4g1 4g1 4e1 8g1 8a1 4e1 4-"
+  },
+  {
+    "title": "Baha Men: Who Let The Dogs Out",
+    "bpm": 125,
+    "song": "8g2 16g2 16- 8g2 4g2 8g2 16- 4c2 8- 8c2 8- 8c2 16- 16- 8c2 16- 8c2 16- 4g2 16g2 16- 8g2 4g2 8g2 16- 4c2 8- 8c2 8- 8c2 16- 8c2 16- 8c2"
+  },
+  {
+    "title": "Basement Jaxx: Red Alert",
+    "bpm": 140,
+    "song": "8e1 8g1 4b1 4c2 4b1 4c2 4b1 4a1 4g1 4e1 2a1 2- 4e1 4g1 4b1 4c2 4b1 4c2 4b1 4a1 4g1 4e1 2a1"
+  },
+  {
+    "title": "Beatles: Come Together",
+    "bpm": 113,
+    "song": "4f1 4f1 8#a1 8c2 2#g2 2f2 4f1 4f1 8#a1 8c2 2#g2 2f2 4f1 4f1 8#a1 8c2 2#g2 2f2 4#g2 8#g2 4#g2 4#g2 4f2 4#d2 2f2 4#g2 8#g2 4#g2 4#g2 4f2 4#d2 2f2 2#g2 4#g2 4#g2 4f2 4#d2 2f2 2#g2 4f2 4#g2 4f2 4#d2 2f2 2g2 1g2 2g2 4f2 1g2 4#g2"
+  },
+  {
+    "title": "Beatles: Happy Together",
+    "bpm": 125,
+    "song": "16c2 4c2 16d2 4#d2 16d2 2#d2 16d2 2#d2 4g2 4f2 16#d2 4d2 16c2 4d2 16c2 2d2 16c2 4#a1 16c2 2d2 16f2 4#d2 16d2 4c2 16#a1 4c2 16#a1 2c2 16#a1 4#g1 16#a1 4c2 4c2 16c2 4c2 16d2 8d2 8c2 4b1 1g2 4c2 4g2 4e2 4c2 4#a1 16d2 4f2 4a2 16#a2 4a2"
+  },
+  {
+    "title": "Beatles: Help",
+    "bpm": 113,
+    "song": "4c2 4c2 4c2 4c2 8c2 4c2 4c2 4c2 4c2 4c2 4#d2 2c2 8#a1 2#g1 8c2 8b1 4c2 8b1 8c2 8b1 2c2 8#g1 4#c2 4#c2 4#c2 8#c2 1c2 4#d2 4#d2 8#d2 4#d2 4#d2 4#c2 4c2 4#a1 2#c2 4c2 2#a1 8c2 4#c2 4#d2 4#d2 4#d2 4#d2 4#d2 4#c2 4c2 4#a1 2#c2 4c2"
+  },
+  {
+    "title": "Beatles: Let It Be",
+    "bpm": 71,
+    "song": "16#a1 16#a1 8#a1 16#a1 8c2 8g1 4#a1 8#a1 16#d2 4f2 32f2 16g2 16g2 4g2 16f2 8f2 16#d2 2#d2 16#a1 16g2 4g2 8#g2 16g2 8g2 4f2 16g2 16f2 8f2 2#d2 16#a1 8#a1 16#a1 8c2 8g1 4#a1 8#a1 16#d2 4f2 32f2 16g2 16g2 4g2 16f2 16f2 8#d2 16#d2 4#d2 16#a1 16g2 4g2"
+  },
+  {
+    "title": "Beatles: Yellow Submarine",
+    "bpm": 125,
+    "song": "8#a1 8b1 2#c2 8#a1 8#g1 8#a1 2#f1 8#a1 8#a1 8#g1 8#f1 2#d1 8#a1 8#a1 1#g1 4#c2 4#c2 4#c2 8#c2 8#d2 8#g1 8#g1 8#g1 8#g1 2#g1 8#g1 8#g1 4#g1 2#g1 8#f1 8#f1 8#f1 8#f1 2#f1 4#c2 4#c2 4#c2 8#c2 8#d2 8#g1 8#g1 8#g1 8#g1 2#g1 8#g1 8#g1 4#g1 2#g1 8#f1 8#f1"
+  },
+  {
+    "title": "Bee Gees: Staying Alive",
+    "bpm": 225,
+    "song": "4f1 4g1 4- 4#a1 4- 4- 8f1 4- 4- 8d1 4c1 4d1 4f1 4- 4c1 4d1 4- 4f1 4- 4- 8c1 4d1 4- 4f1 4- 8g1 4#a1"
+  },
+  {
+    "title": "Beethoven: Für Elise",
+    "bpm": 125,
+    "song": "8e2 8#d2 8e2 8#d2 8e2 8b1 8d2 8c2 4a1 8- 8c1 8e1 8a1 4b1 8- 8e1 8#g1 8b1 4c2 8- 8e1 8e2 8#d2 8e2 8#d2 8e2 8b1 8d2 8c2 4a1 8- 8c1 8e1 8a1 4b1 8- 8e1 8c2 8b1 4a1"
+  },
+  {
+    "title": "Beverly Hills Cop",
+    "bpm": 225,
+    "song": "4f1 4- 4#g1 8- 4f1 8f1 4#a1 32- 4f1 4#d1 4f1 4- 4c2 8- 4f1 8f1 4#c2 32- 4c2 4#g1 4f1 4c2 4f2 8f1 4#d1 8#d1 32- 4c1 4g1 1f1"
+  },
+  {
+    "title": "Big Brother UK",
+    "bpm": 125,
+    "song": "16f1 8f1 16f1 8f1 8e1 16e1 8e1 16e1 8f1 8g1 16f1 8f1 16f1 8f1 8f1 16g1 8g1 16g1 8f1 8g1 1.a1 8- 16f1 8f1 16f1 8f1 8e1 16e1 8e1 16e1 8f1 8g1 16f1 8f1 16f1 8f1 8f1 16g1 8g1 16g1 8f1 8g1 1.a1"
+  },
+  {
+    "title": "Billie Piper: Day and Night",
+    "bpm": 125,
+    "song": "8#g1 4g1 8f1 4#c1 8#g1 4g1 8f1 4f1 8#g1 4g1 8f1 4#c1 8#c1 8f1 8g1 4#g1 4g1 4f1 8c2 4#a1 8#g1 4f1 8c2 4#a1 4#g1 4#a1 16#g1 4f1 8f1 8#g1 8f1 4#a1 4b1 4#a1"
+  },
+  {
+    "title": "Birdy Song",
+    "bpm": 100,
+    "song": "16g2 16g2 16a2 16a2 16e2 16e2 8g2 16g2 16g2 16a2 16a2 16e2 16e2 8g2 16g2 16g2 16a2 16a2 16c3 16c3 8b2 8b2 8a2 8g2 8f2 16f2 16f2 16g2 16g2 16d2 16d2 8f2 16f2 16f2 16g2 16g2 16d2 16d2 8f2 16f2 16f2 16g2 16g2 16a2 16b2 8c3 8a2 8g2 8e2 4c2"
+  },
+  {
+    "title": "Black Bear",
+    "bpm": 180,
+    "song": "4#d2 4#d2 8g2 16#d2 8#a2 16g2 4#d2 4#d2 8g2 16#d2 8#a2 16g2 4f2 8c2 16b1 4c2 8f2 16#d2 8d2 16#d2 8c2 16d2 8#a1 16c2 8d2 16#a1 4#d2 4#d2 8g2 16#d2 8#a2 16g2 4#d2 4#d2 8g2 16#d2 8#a2 16g2 4f2 4f2 4f2 8g2 16f2 4#d2 4g2 2#d2"
+  },
+  {
+    "title": "Blink 182: All The Small Things",
+    "bpm": 160,
+    "song": "4a1 4f1 4- 8- 4e1 4f1 2- 4#a1 4f1 4- 8- 4e1 4f1 2- 8a1 8a1 8a1 8- 4a1 8- 4a1 8#a1 8a1 16- 32- 4g1 8- 16- 8g1 8g1 4g1 8f1 16- 32- 8f1 4#a1 8#a1 4a1 4f1"
+  },
+  {
+    "title": "Blockster: You Should be Dancing",
+    "bpm": 80,
+    "song": "8#d2 8#f2 8#g2 8#g2 8#g2 4#c2 2b2 8#d2 8#f2 8#d2 8#c2 2b1 8#g2 16b2 16b2 16b2 16c2 2#c2 2#c2 8#g2 16b2 16b2 16b2 16c2 2#c2 2#c2 8b2 8b2 8#g2 4#c2 2b2 2#g2 4#c2 2b2 2#g2 8#d2 8#f2 8#g2 8#g2 8#f2 8#g2 2#a2 8#d2 8#f2 8#g2 16#g2 16#f2 2#g2 8#d2 8#f2"
+  },
+  {
+    "title": "Bob the Builder",
+    "bpm": 125,
+    "song": "4a1 8a1 8#c2 8b1 8b1 8- 8e1 4a1 8#c2 4b1 4- 4a1 8a1 8#c2 8b1 8b1 4- 4a1 8#c2 4b1 4- 4#c2 8#c2 8a1 4b1 8- 8e1 8a1 4#c2 4b1 4- 4#c2 8a1 8a1 8b1 8b1 8- 8e1 8b1 8#c2 4b1 4a1"
+  },
+  {
+    "title": "Bolero",
+    "bpm": 80,
+    "song": "4c3 8c3 16b2 16c3 16d3 16c3 16b2 16a2 8c3 16c3 16a2 4c3 8c3 16b2 16c3 16a2 16g2 16e2 16f2 2g2 16g2 16f2 16e2 16d2 16e2 16f2 16g2 16a2 4g2 4g2 16g2 16a2 16b2 16a2 16g2 16f2 16e2 16d2 16e2 16d2 8c2 8c2 16c2 16d2 8e2 8f2 4d2 2g2"
+  },
+  {
+    "title": "Bomfunk MC's: Freestyler",
+    "bpm": 125,
+    "song": "8g2 8e2 8b1 8g2 8e2 8b1 8#f2 8e2 8b1 8#f2 8e2 8b1 8d2 8c2 8g1 8d2 8c2 8g1 8e2 8d2 8a1 8e2 8d2 8a1  8e2 16a1"
+  },
+  {
+    "title": "Britney Spears: Sometimes",
+    "bpm": 200,
+    "song": "2- 2#d2 2- 4#d2 4e2 4#f2 2#c2 2- 4#c2 4#d2 4e2 2b1 2- 2b1 2#c2 4#d2 4e2 4#d2 2#c2 4b1 2#a1"
+  },
+  {
+    "title": "Buffy The Vampire Slayer",
+    "bpm": 225,
+    "song": "2.f1 8.g1 8#g1 1#d1 8- 2.#d1 8.f1 8g1 2.#d1 4- 2.#a1 8.c2 8#a1 2.#g1 8- 8#g1 1g1"
+  },
+  {
+    "title": "Bulletme",
+    "bpm": 112,
+    "song": "4b3 4g3 16#f3 16g3 16#f3 8d3 8e3 4- 16e3 16#f3 16g3 8#f3 8g3 8a3 4b3 4g3 16#f3 16g3 16#f3 8d3 8e3 4- 16c3 16b2 16a2 16b2"
+  },
+  {
+    "title": "Celine Dion: My Heart Will Go On",
+    "bpm": 100,
+    "song": "2d2 2e2 4a1 2a2 4g2 8#f2 2e2 4#f2 4g2 2#f2 4e2 4d2 4#c2 2d2 4#c2 1b1 1a1 1d2 2e2 4a1 2a2 4g2 8#f2 2e2 4#f2 4g2 2#f2 4e2 4d2 4#c2 2d2 4#c2 4#c2 2d2 4e2 2#f2 2e2 1d2"
+  },
+  {
+    "title": "Christina Aguilera: Beautiful",
+    "bpm": 80,
+    "song": "16c1 16#d1 8f1 16g1 16.f1 16f1 32#d1 32f1 8.#d1 32- 16#d1 16#d1 8c1 8g1 16f1 2#d1 16- 32- 32f1 8.g1 32- 32f1 4g1 8f1 8g1 8#a1 8.#d1 16f1 8#d1 32- 32f1 8g1 32- 32#d1 16f1 32g1 32#d1 16f1 32#d1 32#d1 16f1 16#d1 4.c1 16- 16c1 16.#d1 16f1 32- 16f1 16.f1 32#d1"
+  },
+  {
+    "title": "Christina Aguilera ft. Redman: Dirty",
+    "bpm": 112,
+    "song": "8c2 8#a1 8- 16f1 16f1 16g1 16g1 16f1 16f1 8g1 8- 8c2 8#a1 8- 8f1 8g1 8#a1 8g1 8- 8c2 8#a1 8- 16f1 16f1 8g1 8c2 8#a1 16g1 16g1 8d1 8g1 8d1 8g1 8#a1 8a1 8g1 8- 8c2 8#a1"
+  },
+  {
+    "title": "Christina Aguilera: Genie In A Bottle",
+    "bpm": 100,
+    "song": "8d2 8e2 8f2 8e2 8e2 8d2 4#a1 8d2 8e2 8f2 8e2 8e2 8d2 4a1 8- 16d2 16e2 8f2 8e2 8e2 8d2 8e2 8d2 8- 16d2 16d2 8#c2 8d2 8e2 4d2"
+  },
+  {
+    "title": "Christina Aguilera: Infatuation",
+    "bpm": 90,
+    "song": "16#d1 16#g1 8#a1 8b1 8#a1 16#g1 16b1 32#a1 32b1 4#a1 16#g1 16#g1 8#g1 16#d1 8e1 8#d1 16e1 32#d1 32e1 4#d1 8- 16#g1 16#a1 16b1 8#c2 16#a1 16b1 8#g1 16#a1 16#f1 8#g1 8#d1 16e1 32#d1 32e1 4#d1 8- 16-"
+  },
+  {
+    "title": "Coca Cola",
+    "bpm": 125,
+    "song": "8#f3 8#f3 8#f3 8#f3 4g3 8#f3 4e3 8e3 8a3 4#f3 4d3 2-"
+  },
+  {
+    "title": "Colonel Bogey",
+    "bpm": 140,
+    "song": "8g2 8e2 4- 8- 8e2 8f2 8g2 4e3 4e3 2c3 8g2 8e2 2- 8e2 8f2 8e2 4g2 4g2 2f2 8f2 8d2 4- 8- 8d2 8e2 8f2 8g2 8e2 4- 8- 8e2 8#f2 8e2 8d2 8g2 8- 8e2 8#f2 8d2 8- 8a2 8.g2 16#f2 8g2 8a2 8g2 8f2 8e2 8d2 8c2"
+  },
+  {
+    "title": "Concerto Lover",
+    "bpm": 100,
+    "song": "8e2 16a1 16b1 16#c2 16d2 8e2 8a1 8a1 8#f2 16d2 16e2 16#f2 16#g2 8a2 8a1 8a1 8d2 16e2 16d2 16#c2 16b1 8#c2 16d2 16#c2 16b1 16a1 8#g1 16a1 16b1 16#c2 16a1 32#c2 32d2 32#c2 32d2 32#c2 4b1 8e2 16a1 16b1 16#c2 16d2 8e2 8a1 8a1 8#f2 16d2 16e2 16#f2 16#g2"
+  },
+  {
+    "title": "Countdown",
+    "bpm": 125,
+    "song": "16c2 16#a1 4c2 2f1 16#c2 16c2 8#c2 8c2 2#a1 16#c2 16c2 4#c2 2f1 16#a1 16#g1 8#a1 8#g1 8g1 8#a1 2#g1 16g1 16#g1 2#a1 16#g1 16#a1 8c2 8#a1 8#g1 8g1 4f1 4#c2 1c2 16c2 16#c2 16c2 16#a1 1c2"
+  },
+  {
+    "title": "Crypt",
+    "bpm": 160,
+    "song": "4#d2 4#f2 4a2 8- 8b2 4#a2 4#f2 4#d2 8- 8b1 4#a1 4#d2 4#f2 4a2 2b1 8- 4#a1 4d2 4f2 8- 8#f2 4#g2 4b2 4#a2 8- 8#g2 4#f2 4f2 4#d2 4d2 2#d2 1-"
+  },
+  {
+    "title": "Daft Punk: Da Funk",
+    "bpm": 200,
+    "song": "2f2 8#d2 8f2 8#g2 2c2 8- 8#a1 8c2 8#d2 2#g1 8- 8g1 8#g1 8c2 2f1 4g1 4#g1"
+  },
+  {
+    "title": "Daft Punk: Digital Love",
+    "bpm": 125,
+    "song": "4d2 4#c2 8- 8a1 8b1 8a1 8b1 8a1 4#c2 8b1 4a1 8#c2 8e2 4#f2 8- 8a1 8b1 8a1 8b1 8a1 4#c2 8b1 4a1 8- 4d2 4#f2 8- 8a1 8b1 8a1 8b1 8a1 8b1 8a1 4#c2 8- 8a1 8a1 8a1 8a1 8a1 8- 8a1 8a1 8a1 4a1 4#f1"
+  },
+  {
+    "title": "Dallas",
+    "bpm": 125,
+    "song": "8e2 4a2 8e2 4e3 8a2 4#c3 8b2 8#c3 4a2 4e2 4a2 4#f3 4e3 8#c3 8d3 2e3 8- 8e2 4a2 4#f3 4e3 8#c3 8d3 4e3 8b2 8#c3 4a2 4e2 4a2 8#c3 8d3 4b2 8a2 2a2"
+  },
+  {
+    "title": "Dark",
+    "bpm": 140,
+    "song": "8#f3 8e3 2#f3 16e3 16#d3 16d3 16b2 4#a2 1b2 8#f2 8e2 2#f2 8#c2 8d2 8#a1 1b1 8#f2 8e2 2#f2 16e2 16#d2 16d2 16b1 4#a1 1b1 8#f2 8e2 2#f2 4#c2 2d2 2e1 1b1"
+  },
+  {
+    "title": "Death",
+    "bpm": 100,
+    "song": "4.c1 4c1 8c1 4.c1 4#d1 8d1 4d1 8c1 4c1 8c1 2c1"
+  },
+  {
+    "title": "Depeche Mode: Can´t Get Enough",
+    "bpm": 112,
+    "song": "8g2 8- 8g2 16g2 8g2 16g2 8g2 8a2 8a2 8g2 8- 8g2 16g2 8g2 16g2 8g2 8a2 8a2 8c3 8- 8a2 8- 8a2 8- 8a2 8-"
+  },
+  {
+    "title": "Destiny's Child: Bug A Boo",
+    "bpm": 80,
+    "song": "8e2 16c2 16a1 16g1 8d2 8c2 8d2 16c2 8d2 16c2 8e2 8.e2 16d2 8d2 16c2 8d2 16c2 8d2 16c2 8e2 8c2 16-  8d2 8c2 8d2 8c2 8d2 8c2 8e2 16a1 16d2 16c2 16d2 16c2 8d2 16c2 16d2 16c2 8.a1 8-"
+  },
+  {
+    "title": "Destiny's Child: Jumpin Jumpin",
+    "bpm": 180,
+    "song": "8#c2 8#c2 8#c2 8#c2 4#g1 8#g1 8a1 4- 8- 8#g1 4a1 4b1 8#g1 8#g1 8#g1 8#g1 8#g1 8#g1 4#g1 4a1 4- 8-  8#g1 8#g1 8#g1 8#c2 8#c2 8#c2 8#c2 8#g1 8#g1 8#g1 8a1 4- 8- 8#g1 4a1 4b1 4#g1 8#g1 8#g1 8#g1 8#g1  4#g1 4#g1 4#f1 4e1 4#d1 2#c1"
+  },
+  {
+    "title": "Destiny's Child: Say My Name",
+    "bpm": 70,
+    "song": "16g2 16g2 8g2 16f2 16#d2 4#d2 16#a1 16c2 16#d2 16c2 8f2 8c2 16#a1 16c2 16#d2 16c2 8f2 8c2 16#a1 16c2 16#d2 16c2 8#d2 16g2 16g2 16#a2 16g2 16f2 16#d2 4#d2"
+  },
+  {
+    "title": "DJ Jean: The Launch",
+    "bpm": 140,
+    "song": "8b1 8- 8b1 8- 8#a1 8- 8#a1 8- 8a1 8- 8a1 8- 8a1 8- 8e1 8- 8a1 8- 8a1 8- 8a1 8- 8e1 8- 8g1 8- 8g1 8- 8g1 8- 8e1 8- 8b1 8- 8b1 8- 8#a1 8- 8#a1 8- 8a1 8- 8a1 8- 8a1 8- 8e1 8- 8a1 8- 8a1 8- 8a1 8- 8e1 8- 8g1 8- 8g1 8- 8g1 8- 8e1"
+  },
+  {
+    "title": "DJ Jurgen Feat. Alice Deejay: Better Off Alone",
+    "bpm": 140,
+    "song": "8c2 8- 8c2 8a1 8- 8c2 8- 8c2 8- 8b1 8- 8g1 8g2 16- 8g2 16- 8e2 8c2 8- 8c2 8a1 8- 4c2 8c2 8- 8b1 8- 8g1 8f2 16- 8f2 16- 8e2"
+  },
+  {
+    "title": "Dj Sammy & Yanou ft. DO: Heaven",
+    "bpm": 140,
+    "song": "4.#d2 16- 16#d2 16- 4.f2 16- 16f2 16- 4.g2 32- 4.g2 16- 4- 4g2 4#g2 4.#a2 32- 16#a2 16- 4.#a2 16- 4#g2 4.g2 16- 4.f2 4- 4c2 4.#d2 16- 16#d2 16- 4.f2 16- 16f2 16- 4.g2 16- 4.g2 16- 4- 4f2 4#d2 4f2 2d2"
+  },
+  {
+    "title": "DMX: Ruff Ryder's Anthem",
+    "bpm": 90,
+    "song": "8a1 16- 16a1 8d2 8d2 8a1 16- 16a1 8c2 8c2 8a1 16- 16a1 8c2 8c2 8a1 8c2 8a1 8c2 8a1 16- 16a1 8c2 8c2 8g1 8g1 8c2 8c2 8a1 16- 16a1 8c2 8c2 8a1 8a1 8c2 16c2"
+  },
+  {
+    "title": "Don't Care",
+    "bpm": 125,
+    "song": "16f2 16e2 16f2 16e2 16f2 16e2 8d2 16e2 16d2 16e2 16d2 16e2 16d2 16c2 16d2 4d2"
+  },
+  {
+    "title": "Doors: Light My Fire",
+    "bpm": 140,
+    "song": "8b2 16g2 16a2 8b2 8d3 8c3 8b2 8a2 8g2 8a2 16f2 16a2 8c3 8f3 16d3 16c3 16#a2 16g2 8#g2 8g2 8#g2 16g2 16a2 8b2 8#c3 16b2 16a2 16g2 16f2 8e2 8f2 1a2 4a2"
+  },
+  {
+    "title": "Do You Believe in Me",
+    "bpm": 180,
+    "song": "2f1 4#f1 4#g1 4.#c1 4.c1 4#c1 4f3 4#f3 4f3 4#d3 4#c3 2#a1 1.#g1 2c2 4#c2 2f3 2#d3 2#c3 2#g2 2f1 4#f1 4#g1 4.#c1 4.c1 4#c1 4f3 4#f3 4f3 4#d3 4#c3 2#a1 1.#g1 2c2 1.#c2"
+  },
+  {
+    "title": "Dr.Bombay: Calcutta",
+    "bpm": 90,
+    "song": "8b1 8#c2 8#c2 8#c2 8#c2 8#c2 8#c2 4#c2 8#c2 8#d2 8#d2 8#d2 8b1 4#c2 8#a1 8b1 8#c2 8#c2 8#c2 8#c2 8#c2 4#c2 32a1 8#a1 8#a1 8#g1 8#g1 2#g1 4#c2 4#f2 4#d2 8#d2 8#f2 8#f2 8#f2 8#f2 8f2 8#d2 4#c2 4#c2 4#f2 4#d2 8#d2 8#f2 8#f2 8#f2 8#f2 8f2 8#d2 4#c2"
+  },
+  {
+    "title": "Dualing Banjos",
+    "bpm": 200,
+    "song": "8#c2 8d2 4e2 4#c2 4d2 4b1 4#c2 4d2 4b1 4- 16#c3 16- 16d3 16- 8e3 8- 8#c3 8- 8d3 8- 8b2 8- 8#c3 8- 8a2 8- 4b2 4- 4a1 4a1 4b1 4#c2 4a1 4#c2 4b1 4- 8a2 8- 8a2 8- 8b2 8- 8#c3 8- 8a2 8- 8#c3 8- 8b2"
+  },
+  {
+    "title": "Eagles: Hotel California",
+    "bpm": 71,
+    "song": "16g2 16g2 8g2 16f2 16f2 8f2 2g2 8g2 8g2 8f2 8f2 2f2 16f2 16g2 8g2 16f2 16f2 8f2 16f2 2g2 8g2 8g2 8g2 16f2 16f2 16f2 16#d2 2c2 16g2 16g2 8g2 16f2 16#d2 8#d2 16f2 2g2 16#d2 16g2 16g2 8g2 8f2 8#d2 2#d2 16#d2 16f2 16f2 16f2 16f2 16f2 16#d2"
+  },
+  {
+    "title": "Eiffel 65: Blue v1",
+    "bpm": 140,
+    "song": "4a1 4#a1 8g1 8#a1 8c2 8f1 8a1 4#a1 8g1 8#a1 8d2 4#d2 8d2 8c2 4#a1 8g1 8#a1 8c2 8f1 8a1 4#a1 8g1 8#a1 8d2 4#d2 8d2 8c2 4#a1 8g1 8#a1 8c2 8f1 8a1 4#a1 8g1 8#a1 8d2 4#d2 8d2 8c2 4#a1 8g1 8#a1 8a1 8f1 8f1 2g1"
+  },
+  {
+    "title": "Eiffel 65: Blue v2",
+    "bpm": 100,
+    "song": "8d2 8#f1 8b1 8d2 8e2 8a1 8#c2 4d2 8b1 8d2 8#f2 8g2 8b1 8#f2 8e2 8d2 8#f1 8b1 8d2 8e2 8a1 8#c2 4d2 8b1 8d2 8#f2 8g2 8b1 8#f2 1e2 8d2 8#f1 8b1 8d2 8e2 8a1 8#c2 4d2 8b1 8d2 8#f2 8g2 8b1 8#f2 8e2 8d2 8#f1 8b1 8d2 8e2"
+  },
+  {
+    "title": "Elton John: Candle In The Wind",
+    "bpm": 80,
+    "song": "4b1 4b1 4b1 8a1 2b1 8g1 8a1 8b1 4g1 4e2 4e2 8f2 4e2 8d2 4e2 8d2 8e2 8d2 4d2 8g1 4g1 4g1 4c2 8b1 4a1 8g1 2e1 8e1 8g1 8a1 8b1 8c2 4d2 2d2 8g1 8a1 8b1 4g1 8e2 4e2 4f2 8e2 8d2 8d2 8e2 4d2 8d2 4d2 4g1 4a1"
+  },
+  {
+    "title": "Elvis vs JXL: A little Less Conversation",
+    "bpm": 70,
+    "song": "16#d1 16f1 16f1 32#d1 16#g1 16f1 32f1 32#d1 32#d1 16f1 16f1 16#d1 4- 16#d1 16f1 16f1 32#d1 16#g1 16f1 16.#d1 16f1 16f1 16#d1 16c1 4- 16#d1 16f1 16f1 32#d1 16#g1 16.#g1 16f1 32#g1 32f1 16#g1 32#g1 32f1 32#g1 16f1 16.#g1 16c1 32#d1 16f1 16#g1 16f1 4- 32c2 16c2 16#g1 16f1"
+  },
+  {
+    "title": "Eminem: Cleaning Out My Closet",
+    "bpm": 140,
+    "song": "8e1 8f1 8a1 4c2 4b1 4f1 4c2 4b1 8e1 8f1 8a1 4c2 8b1 8a1 4f1 4d2 8c2 8d2 2e2 8- 4a1 2#g1 8#g1 8a1 8b1 8#g1 2a1"
+  },
+  {
+    "title": "Eminem: Lose Yourself",
+    "bpm": 225,
+    "song": "4a2 8- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 4f2 8- 8d1 4- 8d1 4- 8d1 4- 4g2 8- 8d1 4- 4c3 8#a2 4a2 8g2 4a2 8- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 8d1 4- 4f2 8- 8d1 4- 8d1 4- 8d1 4- 4g2 8- 8d1 4- 4c3 8#a2 4a2 8g2 4a2"
+  },
+  {
+    "title": "Eminem: Real Slim Shady",
+    "bpm": 112,
+    "song": "8c2 8#d2 8g1 8#g1 4c2 8- 8#g1 4g1 8- 8#g1 16g1 16#g1 8g1 8#f1 8g1 8c2 8#d2 8g1 8#g1 4c2 8- 8#g1 4g1 8- 8#g1 16g1 16#g1 8g1 8#f1 8g1 8c2 8#d2 8g1 8#g1 4c2 8- 8#g1 4g1 8- 8#g1 16g1 16#g1 8g1 8#f1 8g1"
+  },
+  {
+    "title": "Eminem: Sing for the Moment",
+    "bpm": 180,
+    "song": "4#g1 8g1 4f1 4#g1 8g1 8#g1 8g1 4f1 8- 4f1 8f1 8#d1 4f1 8#d1 4f1 8#d1 8f1 8#d1 4f1 4#d1 4- 4#g1 8g1 4f1 4#g1 8g1 8#g1 8g1 4f1 8- 8#g1 8#g1 8#g1 4g1 4f1 8f1 8#g1 4g1 8f1 8f1 8f1 4f1 2g1 4e1 4c1"
+  },
+  {
+    "title": "Eminem: Stan",
+    "bpm": 63,
+    "song": "16#g1 16.#d2 16#d2 16#d2 16e2 16.#c2 16b1 32.#d2 16b1 8.#c2 16#a1 16.b1 16.#d2 16.#a1 16.#d2 8.#g1 16#g1 16#d2 16.#d2 16.#d2 16.e2 16.#c2 8b1 8#d2 4#c2 16b1 16.#f2 16.#g2 16.#d2 16#c2 8#d2"
+  },
+  {
+    "title": "Eminem: Without Me",
+    "bpm": 112,
+    "song": "8d2 8#a2 8a2 8g2 4d2 4- 8d2 8c2 8d2 8f2 8d2 8- 4- 8d2 8c2 8d2 8c2 8#a1 8- 4- 8#a1 8a1 8f1 4g1 4- 8- 8d2 8#a2 8a2 8g2 8d2 8- 4- 8d2 8c2 8d2 8f2 4d2 4- 8d2 8c2 8d2 8c2 8#a1 8- 4- 8#a1 8a1 8f1 8g1"
+  },
+  {
+    "title": "Entertainer",
+    "bpm": 140,
+    "song": "8d2 8#d2 8e2 4c3 8e2 4c3 8e2 2c3 8c3 8d3 8#d3 8e3 8c3 8d3 4e3 8b2 4d3 2c3 4- 8d2 8#d2 8e2 4c3 8e2 4c3 8e2 2c3 8- 8a2 8g2 8#f2 8a2 8c3 4e3 8d3 8c3 8a2 2d3"
+  },
+  {
+    "title": "Europe: The Final Countdown",
+    "bpm": 125,
+    "song": "4- 8- 16b2 16a2 4b2 4e2 4- 8- 16c3 16b2 8c3 8b2 4a2 4- 8- 16c3 16b2 4c3 4e2 4- 8- 16a2 16g2 8a2 8g2 8#f2 8a2 4g2 8- 16#f2 16g2 4a2 8- 16g2 16a2 8b2 8a2 8g2 8#f2 4e2 4c3 2b2 4- 16b2 16c3 16b2 16a2 1b2"
+  },
+  {
+    "title": "Exodus",
+    "bpm": 70,
+    "song": "8#c2 4#f2 8#c3 4b2 8#f2 8a2 8b2 8#g2 16e2 4#f2 8#c3 4e3 8#d3 8e3 8#f3 8#d3 16b2 2#c3"
+  },
+  {
+    "title": "Eye Of The Tiger",
+    "bpm": 112,
+    "song": "8d1 8e1 8f1 8- 8f1 16f1 8f1 16- 8e1 8d1 8c1 8c1 8d1 8e1 8d1 8- 8d1 8e1 8f1 16- 32- 8e1 8f1 8g1 16- 32- 8f1 16- 32a1 8- 16- 2a1 4- 8d1 16c1 8d1 16- 8c1"
+  },
+  {
+    "title": "Fame",
+    "bpm": 125,
+    "song": "2c3 8a2 8a2 8a2 8a2 4a2 8a2 4a2 8g2 4g2 2- 8g2 8g2 8g2 4g2 8f2 8g2 8a2 4a2 2c3 4- 8a2 8a2 8a2 4a28b2 8a2 4a2 8g2 4g22- 8g2 8g2 8g2 4g2 8f2 8g2 2f2 2-"
+  },
+  {
+    "title": "Faithless: God is a DJ",
+    "bpm": 140,
+    "song": "8d2 8.d2 8.c2 8c2 8.c2 8.b1 8b1 8.b1 8.c2 8c2 8b1 8c2 8- 8d2 8.d2 8.c2 8c2 8.c2 8.b1 8b1 8.b1 8.c2 8c2 8b1 8c2 8- 8d2 8.d2 8.e2 8e2 8.e2 8.b1 8b1 8.b1 8.c2 8c2 8b1 8c2 8- 8d2 8.d2 8.e2 8e2 8.e2 8.b1 8b1 8.b1 8.c2 8c2 8b1"
+  },
+  {
+    "title": "Farnham, John: You're The Voice",
+    "bpm": 140,
+    "song": "16- 8a1 8a1 4f1 8a1 8a1 4g1 8a1 4f1 4.a1 4- 8a1 8a1 4f1 8a1 4g1 4a1 4c2 4- 4.#a1 8a1 4.g1 8f1 8g1 8f1 4#d1 4- 4c2 4.#a1 8a1 4.g1 8f1 8g1 8f1 4.#d1 8f1 8g1 4f1"
+  },
+  {
+    "title": "Fawlty Towers",
+    "bpm": 125,
+    "song": "8b2 8c3 8d3 8#c3 8d3 8#c3 8d3 8g3 4e3 8- 8d3 8c3 8b2 8c3 8b2 8c3 8b2 8c3 8#f3 4d3 8- 8c3 8b2 8a2 8g2 8#f2 8g2 8#f2 8g2 8d3 8c3 8b2 8c3 8b2 8a2 8g2 8#f2 8g2 8e2 8#f2 4d2 8c3 8d3 8b2 8c3 4a2"
+  },
+  {
+    "title": "Flintstones",
+    "bpm": 200,
+    "song": "4#g2 4#c2 8- 4#c3 8#a2 4#g2 4#c2 8- 4#g2 8#f2 8f2 8f2 8#f2 8#g2 4#c2 4#d2 2f2 2- 4#g2 4#c2 8- 4#c3 8#a2 4#g2 4#c2 8- 4#g2 8#f2 8f2 8f2 8#f2 8#g2 4#c2 4#d2 2#c2"
+  },
+  {
+    "title": "Fools Garden: Lemon Tree",
+    "bpm": 70,
+    "song": "8b1 32b1 16b1 2e2 8a1 8a1 4d2 8b1 32b1 32b1 16b1 8a1 16g1 8a1 8a1 4b1 8b1 32b1 32b1 8e2 8g2 8#f2 16d2 2b1 8a1 32a1 8a1 16a1 8a1 16g1 8a1 8a1 8b1 8d2 32b1 16a1 8a1 32g1 8a1 2b1 16d1 8b1 8c2 4d2 16b1 8a1 8#g1 4#g1 4a1 4#g1 4e1 4#g1 2e1 32a1 2b1 4b1 4a1 8e1 8b1 8b1 8#c2 2a1 8#f1 8#f1 8b1"
+  },
+  {
+    "title": "Fragma: You're Alive",
+    "bpm": 225,
+    "song": "4#g1 8- 4#d1 8- 4#g1 8- 4#d1 8- 4#g1 4#d1 4#a1 8- 4#d1 8- 4#a1 8- 4#d1 8- 4#a1 8#a1 4#a1 1#g1 4- 8#g1 8- 8#g1 8#d1 8- 8#d1 8- 8#c1 8- 8#c1 8#c1 8- 8#d1 4c1"
+  },
+  {
+    "title": "Friends",
+    "bpm": 160,
+    "song": "16.f1 4#a1 16.c2 4#d2 16.d2 4c2 16.#a1 8.#a1 8.f1 16.#a1 8.c2 2.c2 16.f1 4#a1 16.c2 4#d2 16.d2 4.c2 16.#a1 8.#d2 8.d2 16.c2 4#a1 2.f2 16.#d2 4#d2 8.#d2 8.#d2 16.#d2 4#d2 8.#d2 16.#d2 4d2 2.d2 16.#a1 8c2 16.d2  16.#d2 8.#d2 4#d2 8.#d2 8.#d2 16.d2 4c2 8.#a1 4#a1 16.f1 16.#a1 8.d2 2.c2"
+  },
+  {
+    "title": "Fugees: Killing Me Softly v1",
+    "bpm": 90,
+    "song": "4- 8e2 4f2 4g2 8a2 4a2 8g2 4d2 4g2 4- 8- 8a2 4g2 8f2 8e2 8e2 8f2 2c2 4- 8e2 4f2 4g2 8a2 4a2 8g2 4a2 4b2 8b2 8c3 8b2 16a2 8g2 16a2 2a2 2a2"
+  },
+  {
+    "title": "Fugees: Killing Me Softly v2",
+    "bpm": 90,
+    "song": "8f1 4#f1 4#g1 8#a1 4#a1 8#g1 4#d1 2#g1 8#a1 4#g1 8#f1 8f1 8f1 8#f1 2#c1 8f1 4#f1 4#g1 8#a1 4#a1 8#g1 4#a1 4c2 8c2 8#c2 8c2 16#a1 8#g1 16#a1 2#a1 2#a1"
+  },
+  {
+    "title": "Garbage: I think I'm paranoid",
+    "bpm": 125,
+    "song": "16f2 16- 16#g2 16- 16f2 16- 8f3 8f2 8#g2 8f2 8#d2 8- 8#d2 4#c2 8- 8#c2 8#d2"
+  },
+  {
+    "title": "George of The Jungle",
+    "bpm": 225,
+    "song": "4f1 4- 4- 4c1 4- 4- 4f1 4- 4f1 4- 4f1 4a1 4- 4c2 4- 4f1 4- 4f1 4- 4g1 4g1 4- 4a1 4- 4- 4- 4f1 4f1 4f1 4f1 4g1 4g1 4- 4f1 4- 4- 4- 4f2"
+  },
+  {
+    "title": "Girl From Ipanima v1",
+    "bpm": 160,
+    "song": "4g2 8e2 8e2 4d2 4g2 8e2 4e2 8e2 8d2 4g2 4e2 4e2 8d2 4g2 8g2 8e2 4e2 8e2 8d2 4f2 4d2 4d2 8d2 8c2 4e2 4c2 4c2 8c2 4#a1 2c2"
+  },
+  {
+    "title": "Girl From Ipanima v2",
+    "bpm": 125,
+    "song": "16f2 2#f2 8#d2 4#d2 4#c2 32f2 2#f2 4#d2 4#d2 2#c2 32f2 4#f2 8#d2 8#d2 32e2 16#d2 8#c2 32f2 2#f2 8#d2 4#d2 16e2 16#d2 2#c2 32e2 8#c2 8#c2 4b1 32d2 1#d2 4b1 8b1 8a1 1b1 4#f2 4#d2 8#d2 4#c2 2#f2 4#d2 4#d2 8#d2 2#c2 32f2 4#f2 8#d2 8#d2 16e2 16#d2 8#c2"
+  },
+  {
+    "title": "God Bless Our Queen",
+    "bpm": 90,
+    "song": "4a1 4a1 4b1 2#g1 8a1 4b1 4#c2 4#c2 4d2 2#c2 8b1 4a1 4b1 4a1 4#g1 2a1 8b1 8#c2 8d2 4e2 4e2 4e2 2e2 8d2 4#c2 4d2 4d2 4d2 2d2 8#c2 4b1 4#c2 8d2 8#c2 8b1 8a1 2#c2 8d2 4e2 8#f2 8d2 4#c2 4b1 4a1"
+  },
+  {
+    "title": "God Save The Queen",
+    "bpm": 112,
+    "song": "4g2 4g2 4a2 4.#f2 8g2 4a2 4b2 4b2 4c3 4.b2 8a2 4g2 4a2 4g2 4#f2 2g2"
+  },
+  {
+    "title": "Good the Bad & the Ugly",
+    "bpm": 63,
+    "song": "32c2 32f2 32c2 32f2 4c2 8#g1 8#a1 4f1 8- 32c2 32f2 32c2 32f2 4c2 8#g1 8#a1 4#d2 8- 32c2 32- 32#d2 4f2 16#g2 32- 16g2 32- 32f2 32- 4#d2 8- 32c2 32f2 32c2 32f2 4c2 8#a1 4f1"
+  },
+  {
+    "title": "Greenslade",
+    "bpm": 70,
+    "song": "8#a1 4#c2 8#d2 4f2 16#f2 8f2 4#d2 8c2 4#g1 16#a1 8c2 4#c2 8#a1 4#a1 16#g1 8#a1 4c2 8#g1 4f1 8#a1 4#c2 8#d2 4f2 16g2 8f2 4#d2 8c2 4#g1 16#a1 8c2 4#c2 16c2 8#a1 4a1 16g1 8a1 4#a1"
+  },
+  {
+    "title": "Greensleaves",
+    "bpm": 140,
+    "song": "4g2 2#a2 4c3 4.d3 8#d3 4d3 2c3 4a2 4.f2 8g2 4a2 2#a2 4g2 4.g2 8f2 4g2 2a2 4f2 2d2 4g2 2#a2 4c3 4.d3 8e3 4d3 2c3 4a2 4.f2 8g2 4a2 4.#a2 8a2 4g2 4.#f2 8e2 4#f2 2g2 2.g2"
+  },
+  {
+    "title": "Guns 'N Roses: Paradise City",
+    "bpm": 225,
+    "song": "8d1 4c1 4#c1 8d1 4c1 4#c1 4d1 4c1 4d1 4c1 4d1 8f1 8d1 4c1 4#c1 8d1 4c1 4#c1 4d1 4c1 4d1 4c1 4d1 8f1"
+  },
+  {
+    "title": "Haddaway: What is Love",
+    "bpm": 225,
+    "song": "4c2 4b1 4c2 4a1 4c2 4b1 4c2 4a1 4c2 4b1 4c2 4g1 4c2 4b1 4c2 4g1 4b1 4a1 4b1 4g1 4b1 4a1 4b1 4g1 4b1 4a1 4b1 4g1 4b1 4a1 4b1 4g1"
+  },
+  {
+    "title": "Halloween",
+    "bpm": 180,
+    "song": "8d3 8g2 8g2 8d3 8g2 8g2 8d3 8g2 8#d3 8g2 8d3 8g2 8g2 8d3 8g2 8g2 8d3 8g2 8#c3 8g2 8#c3 8#f2 8#f2 8#d3 8#f2 8#f2 8#c3 8#f2 8c3 8#f2 8#c3 8#f2 8#f2 8#d3 8#f2 8#f2 8#c3 8#f2 8d3 8#f2"
+  },
+  {
+    "title": "Happy Days",
+    "bpm": 80,
+    "song": "8#c1 8#f1 8#a1 8#c2 16#d2 8f2 2#d2 8#d1 8#g1 8b1 8#d2 16f2 8#f2 2f2 8f1 8#a1 8d2 8f2 16#f2 8#g2 2#f2 16#d2 8#d2 2f2 16#d2 8#d2 2f2 16f2 16f2 8f2 8#f2 16g2 2#g2 8#f2 8#f2 16#g2 4#a2 8#g2 8#f2 16#g2 4#f2 8#d2 8#d2 16#d2 2f2 8#f2 8#f2 16#g2 4#a2 8#g2"
+  },
+  {
+    "title": "Harry Potter - Movie Theme",
+    "bpm": 125,
+    "song": "8b1 8.e2 16g2 8#f2 4e2 8b2 4.a2 4.#f2 8.e2 16g2 8#f2 4d2 8f2 2b1 8- 8b1 8.e2 16g2 8#f2 4e2 8b2 4d3 8#c3 4c3 8#g2 8.c3 16b2 8#a2 4#f2 8g2 2e2 8- 8g2 4b2 8g2 4b2 8g2 4c3 8b2 4#a2 8#f2 8.g2 16b2 8#a2 4#a1"
+  },
+  {
+    "title": "Hawaii 5 - 0",
+    "bpm": 80,
+    "song": "16#c2 16#c2 16e2 8#g2 4#f2 4#c2 16#c2 16#c2 16b1 8e2 2#c2 16#c2 16#c2 16e2 8#g2 4#f2 4#c2 16b2 16b2 16#g2 8e2 2#c2 16e2 16d2 16#c2 16b2 16a2 16#g2 16#f2 16#g2 16e2 4#f2 16#f2 16e2 16d2 16c2 16b2 16#g2 16#f2 16e2 16#f2 8#g2 16#f2 8e2 8#f2 4#c2 16b2 16b2 16#g2 8e2"
+  },
+  {
+    "title": "Holly Valance: Down Boy",
+    "bpm": 160,
+    "song": "4e1 4e1 8e1 8f1 8e1 8d1 4e1 4e1 8e1 8f1 8e1 8d1 4e1 8e1 4e1 4e1 4g1 4a1 8e1 2d1 4e1 4e1 8e1 8f1 8e1 8d1 4e1 4e1 8e1 8f1 8e1 8d1 4e1 8e1 4e1 4e1 4g1 4a1 2a1"
+  },
+  {
+    "title": "How Deep Is Your Love",
+    "bpm": 112,
+    "song": "1b1 4b1 4#c2 4d2 1b1 8b1 8#c2 2d2 4d2 8#c2 4b1 16#c2 16b1 1a1 8a1 4b1 2c2 8c2 4b1 8b1 4a1 8a1 4#g1 8#g1 8e1 4#f1 8#g1 16#g1 8#f1 2e1 8f1 8#f1 8#g1 4a1 8a1 8#c1 2#g1 8a1 16a1 16#g1 1#f1 8#g1 8a1 4b1 8b1 8#g1 4b1 16b1 16#c2 8b1"
+  },
+  {
+    "title": "I Believe In Miracles",
+    "bpm": 63,
+    "song": "16#f2 32e2 4e2 16d2 16#f2 32d2 4d2 8b1 4a1 16#f2 32e2 4e2 16d2 2b1 16#f2 32e2 4e2 16d2 16#f2 32d2 4d2 8b1 4a1 16#f2 32e2 4e2 16d2 2b1 16b1 16#f2 32d2 16e2 16d2 16b1 4a1 16b1 16#f2 32d2 16e2 16d2 4#f2 16b1 16#f2 16d2 16e2 32d2 16b1 16a1 4b1"
+  },
+  {
+    "title": "Ickley",
+    "bpm": 100,
+    "song": "8d2 8g2 16g2 8g2 8d2 4g2 8- 8a2 8b2 16b2 8b2 8a2 4b2 8- 8b2 4a2 4g2 4g2 4#f2 2g2"
+  },
+  {
+    "title": "If You Were Here",
+    "bpm": 70,
+    "song": "8#f1 16#g1 8a1 16b1 16b1 16a1 16#g1 4a1 16#f1 16a1 16#g1 16a1 16b1 16#c2 16b1 16a1 16#g1 16a1 16#g1 16e1 8#f1 16#f1 16a1 16#f1 8#c2 8#c2 16#c2 8a1 8#c2 16b1 4a1 16#f1 16a1 16#f1 8a1 8#g1 16a1 8b1 8a1 16b1 16#c2 8a1 16#f1 16a1 16#f1 8#c2 8#c2 16#c2 8a1 8e2"
+  },
+  {
+    "title": "Imperial",
+    "bpm": 112,
+    "song": "4a1 4a1 4a1 4f1 16c2 4a1 4f1 16c2 2a1 4e2 4e2 4e2 4f2 16c2 4#g1 4f1 16c2 2a1 4a2 4a1 16a1 4a2 4#g2 16g2 16#f2 16f2 4#f2 8#a1 4#d2 4d2 16#c2 16c2 16b1 4c2 8f1 4#g1 4f1 16#g1 4c2 4a1 16c2 2e2 4a2 4a1 16a1 4a2 4#g2 16g2 16#f2 16f2"
+  },
+  {
+    "title": "Indiana Jones v1",
+    "bpm": 225,
+    "song": "4e2 8- 8f2 8g2 8- 1c3 8- 4d2 8- 8e2 1f2 4- 4g2 8- 8a2 8b2 8- 1f3 4- 4a2 8- 8b2 2c3 2d3 2e3 4e2 8- 8f2 8g2 8- 1c3 4- 4d3 8- 8e3 1f3"
+  },
+  {
+    "title": "Indiana Jones v2",
+    "bpm": 125,
+    "song": "4e1 16f1 8g1 2c2 4d1 16e1 1f1 4g1 16a1 8b1 2f2 4a1 16b1 4c2 4d2 4e2 4e1 16f1 8g1 1c2 4d2 16e2 2f2 4g1 16g1 4e2 4d2 16g1 4e2 4d2 16g1 4f2 4e2 16d2 2c2"
+  },
+  {
+    "title": "I Swear",
+    "bpm": 125,
+    "song": "2- 4- 4b1 4a1 16#f1 4e1 4- 8- 8#f1 8#g1 4a1 8a1 8a1 4a1 8#c1 8d1 2e1 8- 8#f1 8#g1 2e1"
+  },
+  {
+    "title": "James Bond v1",
+    "bpm": 80,
+    "song": "16#d1 32f1 32f1 16f1 8f1 16#d1 16#d1 16#d1 16#d1 32#f1 32#f1 16#f1 8#f1 16f1 16f1 16f1 16#d1 32f1 32f1 16f1 8f1 16#d1 16#d1 16#d1 16#d1 32#f1 32#f1 16#f1 8#f1 16f1 16e1 16#d1 16#d2 2d2 16#a1 16#g1 2#a1"
+  },
+  {
+    "title": "James Bond v2",
+    "bpm": 140,
+    "song": "8c1 16d1 16d1 8d1 4d1 8c1 8c1 8c1 8c1 16#d1 16#d1 8#d1 4#d1 8d1 8d1 8d1 8c1 16d1 16d1 8d1 4d1 8c1 8c1 8c1 8c1 16#d1 16#d1 8#d1 4#d1 8d1 8#c1 8c1 8c2 2b2 8g2 8f2 2g2"
+  },
+  {
+    "title": "James Bond: Tomorrow Never Dies",
+    "bpm": 125,
+    "song": "8e1 16#f1 16#f1 8#f1 4#f1 8e1 8e1 8e1 8e1 16g1 16g1 8g1 4g1 8#f1 8#f1 8#f1 8e1 16#f1 16#f1 8#f1 4#f1 8e1 8e1 8e1 8e1 16g1 16g1 8g1 4g1 8#f1 8#f1 8#f1"
+  },
+  {
+    "title": "Jamiroquai: Virtual Insanity",
+    "bpm": 225,
+    "song": "8#f1 8#d1 4- 4- 4- 4- 8f1 8d1 4- 4- 4- 4- 4#c1 4#c1 4- 4#d1 4- 4f1 4- 8#f1 4#d1 8#d1 4- 4#d1"
+  },
+  {
+    "title": "Jay-Z: Hard Knock Life",
+    "bpm": 160,
+    "song": "8g1 16- 16g1 4e1 4g1 4c1 4- 4d1 4e1 4- 8g1 16- 16g1 4e1 4g1 4b1 4- 4c2 4d2 4- 8c2 16- 16c2 8a1 4c2 8- 4g2 4- 4e2 4g1 4- 8c2 16- 16c2 8a1 4c2 8- 4g2 4- 4e2 4d2 4- 8g2 16- 16g2 8e2 4g2 8- 4c2"
+  },
+  {
+    "title": "J.Lo - Jenny From The Block",
+    "bpm": 125,
+    "song": "32#g2 32- 32#g2 16- 32- 32#g2 16- 32- 32#f2 32- 32#g2 2- 16- 32- 32#a2 32- 32#a2 16- 32- 32#a2 16- 32- 32b2 32- 32#c3 2- 16- 32- 32b2 32- 32#d3 16- 32- 32#c3 16- 32- 32b2 32- 16#g2 2- 16- 16#a2 32#c3 16- 32- 32#a2 16- 32- 16#g2 16g2 2- 16- 32#g2 32- 32#g2 16- 32- 32#g2 16- 32- 32#f2 32- 32#g2 2- 16- 32- 32#a2 32- 32#a2 16- 32- 32#a2 16- 32- 32b2 32- 32#c3 2- 16- 32- 32b2 32- 32#d3 16- 32- 32#c3 16- 32- 32b2 32- 16#g2"
+  },
+  {
+    "title": "Jesus",
+    "bpm": 100,
+    "song": "4f2 8d2 2#a1 4g2 8#d2 2#a1 4#g2 8f2 8#g2 4g2 8f2 8#d2 4f2 8d2 2#a1"
+  },
+  {
+    "title": "Jody Bernal: Que Si, Que No",
+    "bpm": 125,
+    "song": "8e1 8g1 4- 8e1 8g1 4- 8e1 8a1 8a1 8a1 8a1 4g1 8d1 8d1 8f1 8f1 8f1 8d1 8f1 8f1 8f1 8d1 4a1 8a1 4g1 8e1"
+  },
+  {
+    "title": "Kelly Rowland: Stole",
+    "bpm": 160,
+    "song": "4g1 4#a1 4#a1 4#a1 4#a1 4d1 4d1 8d1 8d1 4d1 4#d1 4#d1 4#d1 2- 4#d1 4f1 4g1 4#a1 4#a1 4#a1 4#a1 4d1 4d1 4d1 4d1 4#d1 4#d1 4f1 4g1 4f1 2- 4g1 4#a1 4#a1 4#a1 4#a1 4d1 4d1 8d1 8d1 4d1 4#d1 4#d1 4#d1 2- 4#d1 4f1 4g1 4#a1 4#a1 4#a1 4#a1 4d1 4d1 4d1 4d1 4#d1 4#d1 4f1 4g1 4f1 2- 4g1 4#a1 4#a1 4#a1 4#a1 4d1 4d1 8d1 8d1 4d1 4#d1 4#d1 4#d1 2- 4#d1 4f1 4g1 4#a1 4#a1 4#a1 4#a1 4d1 4d1 4d1 4d1 4#d1 4#d1 4f1 4g1 4f1"
+  },
+  {
+    "title": "King and Queen of Hearts",
+    "bpm": 80,
+    "song": "16#c2 16d2 8e2 8a2 8.a2 16e2 4e2 2- 16#c2 16d2 8e2 8#c2 8.#c2 16#f2 4#f2 2- 16b2 16a2 16#g2 16a2 8b2 2e2 2- 16b2 16a2 16#g2 16a2 8b2 4.a2"
+  },
+  {
+    "title": "Knight Rider",
+    "bpm": 63,
+    "song": "16e2 32f2 32e2 8b2 16e3 32f3 32e3 8b2 16e2 32f2 32e2 16b2 16e3 4d3 8- 4- 16e2 32f2 32e2 8b2 16e3 32f3 32e3 8b2 16e2 32f2 32e2 16b2 16e3 4f3 4-"
+  },
+  {
+    "title": "Kiss From a Rose",
+    "bpm": 140,
+    "song": "8d1 8e1 4f1 8g1 4f1 4e1 4d1 4c1 2d1 8d1 8c1 2d1 8d1 8e1 4f1 8g1 4f1 4e1 4c1 4e1 2d1"
+  },
+  {
+    "title": "Kristers Nummerguide Krister",
+    "bpm": 180,
+    "song": "1e1 4f1 1g1 4f1 1e1 4- 4- 1f1 4g1 1a1 4g1 1f1 4- 4- 1g1 4a1 1b1 4a1 1g1 4- 1b1 2c2"
+  },
+  {
+    "title": "La Cucaracha",
+    "bpm": 225,
+    "song": "4c1 4c1 4c1 8f1 8a1 4- 4c1 4c1 4c1 8f1 8a1 4- 4f1 4f1 4e1 4e1 4d1 4d1 8c1 4- 4- 4c1 4c1 4c1 8e1 8g1 4- 4c1 4c1 4c1 8e1 8g1 4- 4c2 4d2 4c2 4#a1 4a1 4g1 8f1"
+  },
+  {
+    "title": "Larry",
+    "bpm": 71,
+    "song": "8f1 16f1 8#f1 16#f1 8g1 16g1 8#g1 16#a1 8f1 8#g1 8#a1 16f1 8#g1 16#a1 8#g1 4#c2 16a1 8#a1 16#c2 8a1 8#a1 8#c2 16a1 8#a1 16#c2 8#d2 8e2 32#d2 32d2 8#c2 8f2 8f2 8f2 8f2 8f2 16e2 8#d2 4d2 8#a1 8e2 16f2 8e2 16f2 8#c2 8#d2 16#c2"
+  },
+  {
+    "title": "Lazy",
+    "bpm": 160,
+    "song": "8d1 8f1 16d1 8g1 16f1 8d1 8f1 16d1 8g1 16f1 8d1 4-"
+  },
+  {
+    "title": "Led Zeppelin: Stairway to Heaven",
+    "bpm": 63,
+    "song": "8a2 8c2 8e2 8a2 8b2 8e2 8c2 8b2 8c3 8e2 8c2 8c3 8#f2 8d2 8a2 8#f2 8e2 8c2 8a2 4c2 8e2 8c2 8a1 8g1 8g1 8a1 4a1"
+  },
+  {
+    "title": "Let's Twist Again",
+    "bpm": 225,
+    "song": "4b1 4- 4b1 4b1 4- 8b1 4- 4- 4b1 4a1 4b1 4a1 4g1 4e1 4- 4- 8b1 4- 4g1 4a1 4g1 4a1 4- 4b1 4- 4b1 4b1 4- 8g1"
+  },
+  {
+    "title": "Looney Tunes",
+    "bpm": 160,
+    "song": "16f3 16f3 8e3 8d3 8c3 4a2 8- 8c3 16f3 16f3 8e3 8d3 8#d3 4e3 8- 8e3 8e3 8c3 8d3 8c3 16e3 16e3 8c3 8d3 8a2 8c3 8g2 8#a2 8a2 8f2"
+  },
+  {
+    "title": "Loosing",
+    "bpm": 63,
+    "song": "2- 8b2 8#c3 8b2 8#f2 4a2 8a2 8a2 4a2 4a2 4a2 8b2 8#c3 8b2 8#f2 4a2 8a2 8a2 4a2 4a2 8b2 8#c3 8b2 8#f2 4a2 8a2 8a2 4a2 4a2 8b2 8#c3 8b2 8#f2 4a2 4a2 8a2 4a2 8#g2 2#g2"
+  },
+  {
+    "title": "Lou Bega: Mambo Nr5",
+    "bpm": 140,
+    "song": "16#a1 8#a1 16#a1 8#a1 16#a1 8c2 16c2 8#a1 16- 8#a1 4c2 8#a1 8- 16#a1 8#a1 16#a1 8#a1 16#a1 8c2 16c2 8#a1 16- 8#a1 4c2 8#a1 8- 16#a1 8#d2 16#d2 8d2 16d2 4c2 16#a1 16- 8#a1 4c2 8#a1 8- 16#a1 8#d2 16#d2 8d2 16d2 4c2 16#a1 16- 8#a1 4c2 8#a1"
+  },
+  {
+    "title": "Macarena",
+    "bpm": 180,
+    "song": "4f2 8f2 8f2 4f2 8f2 8f2 8f2 8f2 8f2 8f2 8f2 8a2 8c2 8c2 4f2 8f2 8f2 4f2 8f2 8f2 8f2 8f2 8f2 8f2 8d2 8c2 4- 4f2 8f2 8f2 4f2 8f2 8f2 8f2 8f2 8f2 8f2 8f2 8a2 4- 2.c3 4a2 8c3 8a2 8f2 4- 2-"
+  },
+  {
+    "title": "Madonna: American Pie",
+    "bpm": 125,
+    "song": "2g2 4f2 8f2 8f2 8e2 32d2 16- 32- 8c2 8d2 4- 8g2 32g2 16- 32- 32g2 16- 32- 32g2 16- 32- 32g2 16- 32- 32g2 16- 32- 32f2 16- 32- 32f2 16- 32- 32f2 16- 32- 32f2 16- 32- 8e2 32d2 16- 32- 8c2 8g1"
+  },
+  {
+    "title": "Madonna: Don't Cry For Me Argentina",
+    "bpm": 100,
+    "song": "4d2 4d2 8d2 4d2 4#d2 8f2 4g2 1f2 8f2 4g2 4g2 8f2 4#a2 4f2 4#d2 2d2 8d2 8#d2 8f2 4c2 2c2 8c2 8d2 8#d2 4#a1 2#a1 8#a1 8c2 8#a1 4d2 2f2 8f1 8f1 8f1 4g1 1#a1 32#c2 4d2 4d2 8d2 2d2 8d2 8d2 4d2 8d2 4d2 4c2 8#a1 4c2 1f1"
+  },
+  {
+    "title": "Madonna: Music",
+    "bpm": 180,
+    "song": "4d2 8c2 8#a1 4c2 4#a1 8.c2 16c2 8c2 8#c2 8#a1 4g1 8g1 8#a1 4d2 8c2 8#a1 4c2 4#a1 2- 8g1 8#a1 4d2 8#a1 8c2 4- 8a1 8c2 8d2 8c2 8#a1 4g1 8g1 8#a1 4d2 4#a1 4c2 4#a1 4f2 4e2 4- 8#a1 4d2 4#a1 4c2 4#a1 4f2 4e2"
+  },
+  {
+    "title": "Magnum",
+    "bpm": 225,
+    "song": "8e1 8f1 4g1 4- 8g1 2- 4- 4g1 4e1 4a1 8g1 8c1 2- 4- 4e1 4e1 8d1 4c1 8d1 8e1 2- 4- 4c1 4e1 4g1 4a1 4g1 8c1 2- 4e1 4e1 8d1 4c1 8d1 8c1 8c1"
+  },
+  {
+    "title": "Marilyn Manson: Sweet Dreams",
+    "bpm": 225,
+    "song": "4c2 4c2 4g2 4c2 4#g2 4c2 4g2 4c2 4#g1 4#g1 4#d2 4f2 4g1 4g1 4d2 4#d2 4- 4c2 4c2 4g2 4c2 4#g2 4c2 4g2 4c2 4#g1 4#g1 4#d2 4f2 4g1 4g1 4d2 4#d2"
+  },
+  {
+    "title": "Marlboro Country",
+    "bpm": 225,
+    "song": "8e1 8g1 4- 8a1 8g1 8f1 8c2 2- 8e1 8g1 4- 8a1 8g1 8f1 8d1 2- 8c1 8d1 8e1 8g1 4- 8a1 8g1 8e1 8c1 8c2 2- 8c2 8c2 8a1 8g1 8a1 8c1 8d1 8c1"
+  },
+  {
+    "title": "Married with Children",
+    "bpm": 225,
+    "song": "8d1 8a1 8#a1 8b1 8#c1 8a1 8#a1 8b1 2- 4d1 4#c1 4d1 4e1 4#f1 4a1 8g1 8d2 8#d2 8e2"
+  },
+  {
+    "title": "MASH",
+    "bpm": 80,
+    "song": "8c2 8f2 8#g2 2g2 8f2 8c2 8f2 8#g2 4g2 4#d2 4#c2 8c2 4#c2 4c2 4#c2 4c2 2#a1 4c2 8#a1 4c2 4#a1 4c2 4#a1 2#g1 8c2 4#a1 8#g1 4#a1 4#g1 4#a1 4#g1 2g1 4#g1 2#g1 2#g1 2#a1 8#a1 8#d1 8g1 8#a1 8#d1 8g1 8#a1 8#d1 4a1 4a1 2a1 4f2 8#d2 4f2"
+  },
+  {
+    "title": "Match of The Day:",
+    "bpm": 100,
+    "song": "8c1 8f1 8a1 8.c2 16a1 8a1 8a1 8a1 4a1 8#a1 8.c2 16a1 8g1 8a1 8#a1 8c1 8e1 8g1 8.#a1 16g1 8g1 8g1 8g1 4g1 8a1 8.#a1 16g1 8f1 8g1 8a1 8c1 8f1 8a1 8.c2 16a1 8a1 8a1 8a1 4a1 8#a1 8.c2 16a1 8#a1 8c2 4d2 8d2 8e2 8f2 16f2 8e2 16e2 8d2 8f2 8c2 8c2 8d2 8c2 16#a1 8a1 16a1 8g1 4f1"
+  },
+  {
+    "title": "Mauro Picotto: Komodo",
+    "bpm": 160,
+    "song": "8g1 4- 8f1 8g1 4- 8f1 8g1 8f1 8g1 4- 8f1 8g1 8d1 8#d1 4- 8d1 8#d1 4- 8d1 8#d1 8d1 8#d1 4- 8d1 8#d1 8f1 8g1 4- 8f1 8g1 4- 8f1 8g1 8f1 8g1 4- 8f1 8g1 8a1 8#a1 16- 8#a1 16- 8a1 8#a1 16- 8#a1 16- 8c2 8d2"
+  },
+  {
+    "title": "Metallica: Enter Sandman v1",
+    "bpm": 112,
+    "song": "4e1 8e1 8e2 8g2 8#a1 4a1 8e2 4e1 8e1 8e2 8g2 8#a1 4a1 8e2 4e1"
+  },
+  {
+    "title": "Metallica: Enter Sandman v2",
+    "bpm": 225,
+    "song": "8d1 4d2 4f2 4#g1 8g1 4d2 8d1 4d2 4f2 4#g1 8g1 4d2 8d1 4d2 4f2 4#g1 8g1 4d1 8f1 4d1 4e1 4d1 4e1 4f1 4e1 8d1"
+  },
+  {
+    "title": "Metallica: Harvester of Sorrow",
+    "bpm": 150,
+    "song": "16g1 16#f1 16e1 16b1 16#a1 16#g1 16g1 16f1 4e1 4- 8e1 8b1 8f2 8e2 16e1 16b1 8g2 8f2 8e2 8e1 8b1 8f2 8d2 16g1 16a1 8d2 8f1 8d2"
+  },
+  {
+    "title": "Michael Jackson: Beat it",
+    "bpm": 225,
+    "song": "8e1 4g1 4b1 4g2 4e2 4- 4e2 8#f2 4e2 4d2 4- 8d2 4- 8e1 4g1 4b1 4g2 4e2 4- 4e2 8#f2 4e2 4d2"
+  },
+  {
+    "title": "Michael Jackson: Smooth criminal",
+    "bpm": 125,
+    "song": "8a1 16a1 16a1 16g1 16a1 8b1 8b1 8- 16a1 16b1 8c2 8c2 8- 16b1 16c2 8b1 4g1 8a1 8- 8a1 16a1 16a1 16g1 16a1 8b1 8b1 8- 16a1 16b1 8c2 8c2 8- 16b1 16c2 8b1 4g1"
+  },
+  {
+    "title": "Minuet",
+    "bpm": 125,
+    "song": "4d2 8g1 8a1 8b1 8c2 4d2 4g1 4g1 4e2 8c2 8d2 8e2 8f2 4g2 4g1 4g1 4c2 8d2 8c2 8b1 8a1 4b1 8c2 8b1 8a1 8g1 4#f1 8g1 8a1 8b1 8g1 4b1 4a1"
+  },
+  {
+    "title": "Missy Elliot: Work It",
+    "bpm": 225,
+    "song": "16g2 16- 16g2 16- 4#d3 8- 16.#d3 8- 32- 16c2 16- 16d3 16- 16#d3 16- 4d3 8- 8c3 8- 16c2 16- 32g2 16- 16g2 16- 8.#d3 16- 4#d3 16d3 16- 16.#d3 32- 16d3 16- 16.#d3 32- 4d3 8- 8.c3 16- 16c2 16- 8.c3 16- 8.g3 16- 16g3 16- 16g3 16- 32#f3 16- 16#f3 16- 8f3 8- 4#d3 8- 8.c3 16- 16c2 16- 8.c3 16- 8.g3 16- 16g3 16- 16g3 16- 32#f3 16- 16#f3 16- 8f3 8- 8.#d3 8- 4c3 16c2 16- 16.c3"
+  },
+  {
+    "title": "Mission Impossible",
+    "bpm": 100,
+    "song": "16g2 8- 16g2 8- 16f2 16- 16#f2 16- 16g2 8- 16g2 8- 16#a2 16- 16c3 16- 16g2 8- 16g2 8- 16f2 16- 16#f2 16- 16g2 8- 16g2 8- 16#a2 16- 16c3 16- 16#a2 16g2 2d2 32- 16#a2 16g2 2#c2 32- 16#a2 16g2 2c2 16- 16#a1 16c2"
+  },
+  {
+    "title": "Monty Python v1",
+    "bpm": 140,
+    "song": "8- 8c3 8a2 8- 8a2 8a2 8#g2 8a2 8f3 8- 8c3 8c3 8- 8a2 8#a2 8- 8#a2 8#a2 8- 8c3 2d3 8- 8#a2 8g2 8- 8g2 8g2 8#f2 8g2 8e3 8- 8d3 8d3 8- 8#a2 8a2 8- 8a2 8a2 8- 8#a2 2c3"
+  },
+  {
+    "title": "Monty Python v2",
+    "bpm": 160,
+    "song": "4f3 8e3 4d3 8#c3 4c3 8b2 4#a2 8a2 8g2 8a2 8#a2 4a2 8g2 2c3 8-"
+  },
+  {
+    "title": "Mousse T: Horny 99",
+    "bpm": 62,
+    "song": "16c2 16#d2 16f2 16#f2 16f2 16#d2 16f2 16#f2 16f2 16#d2 16c2 16#d2 16#d2 16#d2 4c2 8c2 16f2 4#d2 16f2 16#f2 16f2 16#f2 16#d2 2c2 8c2 16f2 8#d2 16#d2 16f2 16#f2 16f2 16#f2 16#d2 2c2 8c2 16f2 4#d2 16f2 16#f2 16f2 16#f2 16#d2 2c2 8c2 16f2 8#d2 16#d2 16f2 16#f2 16f2"
+  },
+  {
+    "title": "Mozart",
+    "bpm": 63,
+    "song": "16#f1 16e1 16#d1 16e1 4g1 16a1 16g1 16#f1 16g1 4b1 16c2 16b1 16#a1 16b1 16#f2 16e2 16#d2 16e2 16#f2 16e2 16#d2 16e2 4g2 8e2 8g2 32d2 32e2 16#f2 8e2 8d2 8e2 32d2 32e2 16#f2 8e2 8d2 8e2 32d2 32e2 16#f2 8e2 8d2 8#c2 4b1"
+  },
+  {
+    "title": "Mr.President: Coco Jamboo",
+    "bpm": 225,
+    "song": "8g1 8c2 8g2 4g1 8c2 8g2 4#d2 8d2 8c2 8#g1 8c2 8#d2 4#g1 8#a1 8f2 4#d2 8d2 8c2 8g1 8c2 8g2 4g1 8c2 8g2 4#d2 8d2 8c2 8c2 8d2 8#d2 4c2 8f2"
+  },
+  {
+    "title": "Munsters",
+    "bpm": 160,
+    "song": "4d2 8f2 8d2 8#g2 8a2 4d3 8#a2 8a2 2g2 8f2 8g2 4a2 8a1 8#d1 8a1 8b1 4#c2 8d2 4- 4c2 4c3 4c3 2c3 8#a2 8a2 8#a2 8g2 8a2 4f2 4- 4g2 4g2 2g2 8f2 8e2 8f2 8d2 8e2 2#c2 4-"
+  },
+  {
+    "title": "Muppet Show",
+    "bpm": 225,
+    "song": "4c3 4c3 4a2 4b2 8a2 4b2 4g2 4- 4c3 4c3 4a2 8b2 8a2 8- 4g2 4- 4e2 4e2 4g2 4f2 8e2 4f2 8c3 8c2 8d2 4e2 8e2 8e2 8- 8e2 4g2"
+  },
+  {
+    "title": "Nacht",
+    "bpm": 125,
+    "song": "2#g1 8#d1 2#g1 8#d1 8#g1 8#d1 8#g1 8c2 2#d2 2#c2 8#a1 2#c2 8#a1 8#c2 8#a1 8g1 8#a1 2#d1 4#g1 2#g1 8c2 8#a1 8#g1 32#a1 32#g1 32#a1 32#g1 8g1 2g1 8#a1 8#c2 8g1 8#a1 8#g1 2#g1 8c2 8#a1 8#g1 32#a1 32#g1 32#a1 32#g1 8g1 2g1 8#a1 8#c2 8g1 8#g1 8#g1 16#g1"
+  },
+  {
+    "title": "NBA",
+    "bpm": 225,
+    "song": "4f1 4- 4c1 4- 4d1 4- 4e1 4- 4f1 4- 4c1 4- 4d1 4- 4e1 4- 4f1 4- 4c1 4- 4d1 4- 4e1 4- 8#f1 4- 4- 4g1 4c2 4e2 4g2 4e2 8g2 4- 4#g1 4#c2 4f2 4#g2 4f2 8#g2"
+  },
+  {
+    "title": "Nelly: Hot in Here",
+    "bpm": 100,
+    "song": "8e1 8e1 8#f1 8e1 8#f1 4.e1 8e1 8e1 8e1 8e1 8#f1 4e1 8g1 4g1 8g1 8g1 8g1 4g1 8g1 16g1 16g1 8g1 8#f1 4a1 16a1 16#f1 4e1 8e1 8e1 8#f1 8e1 8#f1 4.e1 8e1 8e1 8e1 8e1 8#f1 4e1 8g1 4g1 8g1 8g1 8g1 4g1"
+  },
+  {
+    "title": "Nelly Ft. Kelly: Dilemma",
+    "bpm": 90,
+    "song": "8f1 8a1 16f1 8d1 8a1 8.g1 4- 16e1 16f1 8g1 16e1 8c1 8g1 8.f1 4- 16f1 16g1 8a1 16f1 8d1 8a1 4g1 16- 16e1 16f1 16e1 16f1 8g1 16e1 8c1 8g1 8.f1 4- 8f1 8a1 16f1 8d1 8a1 16a1 16#a1 8.g1 8- 16e1 16f1 8g1 16e1 8c1 8g1 8.f1 4-"
+  },
+  {
+    "title": "Nirvana: Come as You Are",
+    "bpm": 225,
+    "song": "8c1 8c1 8#c1 8d1 4- 4- 8f1 8d1 8f1 8d1 8d1 8#c1 8c1 8g1 8c1 8c1 4- 4- 8g1 8c1 8#c1 8d1 4- 4- 8f1 8d1 8f1 8d1 8d1 8#c1 8c1 8g1 8c1 8c1 4- 4- 8g1"
+  },
+  {
+    "title": "N Sync: I Drive Myself Crazy",
+    "bpm": 90,
+    "song": "8c2 8d2 8f1 8g1 2g1 8f1 4c2 16#a1 8c2 2d2 8c2 8d2 4f1 16#a1 4#a1 8g1 2f1 8c2 8d2 8g1 8#a1 2#a1 8f1 4c2 16#a1 16c2 16d2 2d2 8c2 8d2 8g1 8#a1 4#a1 8g1 2f1 8f1 4#d1 8#a1 2#a1 8#d1 4f1 8c2 2d2 4#a1 8a1 2#a1 8#a1 8a1 8a1 8#a1"
+  },
+  {
+    "title": "Oh Come All Ye Faithful:",
+    "bpm": 160,
+    "song": "4g1 2g1 4d1 4g1 2a1 2d1 4b1 4a1 4b1 4c2 2b1 4a1 4g1 2g1 4#f1 4e1 4#f1 4g1 4a1 4b1 2#f1 4.e1 8d1 2.d1"
+  },
+  {
+    "title": "Oh Little Town Of Bethlehem:",
+    "bpm": 160,
+    "song": "4c1 4f1 4f1 4f1 4g1 8a1 8g1 8a1 8#a1 4c2 4a1 4#a1 8a1 8f1 4g1 4g1 2.f1 4c1 4f1 4f1 4f1 4g1 8a1 8g1 8a1 8#a1 4c2 4a1 4#a1 8a1 8f1 4g1 4g1 2.f1"
+  },
+  {
+    "title": "Only You",
+    "bpm": 62,
+    "song": "4a1 4#a1 2g2 4#a1 2#d2 8g2 2f2 16d2 2b1 8f2 4g2 8f2 16g2 8f2 2#d2 4g1 2c2 16#d2 2#c2 8#a1 2g1 4#g1 4#a1 2c2 8#g1 4c2 4#d2 2d2 4g2 4#a2 4g2 8g2 2f2 8g2 2#d2 8#d2 2f2 8#d2 2#d2 2c2 8b1 4c2 8g2 8f2 8g2 2f2 8g2 4#a2 16g2 8f2"
+  },
+  {
+    "title": "Open Up",
+    "bpm": 80,
+    "song": "16e1 8g1 8a1 8b1 4b1 16b1 16b1 8b1 8a1 8g1 4e1 16e1 8g1 8e1 8b1 8a1 4a1 16a1 16a1 8a1 8g1 8a1 4b1 16e2 16e2 8e2 8e2 8d2 4e2 16e2 16d2 8e2 8d2 8a1 4b1 16b1 16b1 8b1 8c2 8b1 4b1 8b1 8#d2 8e2 2#f2 4g2 16e2 8e2 2g2 4e2"
+  },
+  {
+    "title": "Outkast: Ms. Jackson",
+    "bpm": 90,
+    "song": "16c2 16b1 16a1 8b1 8.c2 8- 16- 8e2 8e2 8e2 4.g2 4- 8a1 8e2 8d2 8e2 8d2 16e2 8d2 16e2 16a1 16- 8g1 8e2 8d2 8e2 8d2 16e2 8d2 16e2 8a1"
+  },
+  {
+    "title": "Oxygene",
+    "bpm": 100,
+    "song": "8#g1 4b1 4e2 4#c2 8b1 4#c2 1#g2 4#g2 8e2 4#d2 1b2 8a2 4#g2 1e2 8#g1 4b1 4e2 4#c2 8b1 4#c2 1#g2 4#g2 8e2 4#d2 1b2 8a2 4#g2 1e2 8b2 4#c2 2e2 8#g2 4a2 2#c2 8#f2 4#c2 1#g2 8b2 4#c2 2e2 8#g2 4a2 2#c2 8#f2 4#c2 1#g2 8#g1 4b1 4e2 4#c2"
+  },
+  {
+    "title": "Panathinakos Anthem",
+    "bpm": 150,
+    "song": "8a2 8c3 8a2 4a2 8- 8a2 8c3 16- 16e3 8d3 8c3 4a2 8- 8c3 8d3 16- 16g2 8#f2 8g2 8d3 8- 8d3 8- 8d3 8- 4#c3 8e3 8- 4d3 8-"
+  },
+  {
+    "title": "Parla et Pardoux: Liberte",
+    "bpm": 180,
+    "song": "8a2 8c3 8a2 4a2 8- 8a2 8c3 16- 16e3 8d3 8c3 4a2 8- 8c3 8d3 16- 16g2 8#f2 8g2 8d3 8- 8d3 8- 8d3 8- 4#c3 8e3 8- 4d3 8-"
+  },
+  {
+    "title": "Paul Johnson: Get Get Down",
+    "bpm": 125,
+    "song": "8.f2 8c3 8c3 16c3 4f2 8c3 8c3 8.f2 8c3 8c3 16c3 4f2 8c3 8c3 8.f2 8c3 8c3 16c3 4f2 8c3 8c3 8.f2 8c3 8c3 16c3  4f2 8c3 8c3 4c3 4#a2 4#g2 4g2 4c3 4#a2 4#g2 4g2"
+  },
+  {
+    "title": "Paul McCartney: Live And Let Die",
+    "bpm": 225,
+    "song": "4a1 4b1 8c2 2- 4e1 4#f1 8g1 2- 4d2 4c2 8a1 4a1 4b1 8c2 2- 4e1 4#f1 8g1 2- 4d2 4- 8c2"
+  },
+  {
+    "title": "Paul Van Dyke: We're Alive",
+    "bpm": 180,
+    "song": "16b1 16- 16#f2 16- 2#f2 32- 4e2 4#d2 16#c2 16- 2#c2 4b1 4#a1 4#g1 16- 4#d2 4b1 4b1 4#d2 4#c2 16b1 16- 16#f2 16- 2#f2 32- 4e2 4#d2 16#c2 16- 2#c2 4b1 4#a1 16#g1 16- 4#g1 8-"
+  },
+  {
+    "title": "Peanuts",
+    "bpm": 160,
+    "song": "4f2 8g2 4a2 8a2 8g2 4f2 2g2 4f2 4- 4f2 8g2 4a2 1a2 2g2 4f2 8g2 4a2 8a2 8g2 4f2 2g2 2f2 2f2 8g2 1g2"
+  },
+  {
+    "title": "Phantom Of The Opera",
+    "bpm": 100,
+    "song": "4e1 4a1 4e1 4g1 8f1 2f1 4d1 4g1 8d1 1e1 4e1 4a1 4e1 4g1 8f1 2f1 4d1 4g1 8d1 1e1 4e1 4a1 4c2 4e2 8d2 2d2 4d2 4g2 8d2 1e2 4e2 1a2 8g2 8f2 8e2 8d2 8c2 8b1 8a1 1#g1 4f1 4f1 8e1 1e1"
+  },
+  {
+    "title": "Piccolo",
+    "bpm": 225,
+    "song": "4d3 4g3 4g2 4g3 8d3 8e3 8d3 8b2 4g2 4d2 8g2 8a2 8b2 8c3 4d3 4g3 1d3 4d3 4g3 4g2 4g3 8d3 8e3 8b2 4g2 4d2 8f2 8g2 8a2 8b2 4c3 4f3 1c3"
+  },
+  {
+    "title": "Pilipom",
+    "bpm": 160,
+    "song": "16e2 16- 16e2 16- 16g2 16- 16g2 16- 16b1 16#c2 16d2 16- 16g2 16- 16g2 16- 16e2 16- 16e2 16- 16g2 16- 16g2 16- 16b2 16g2 16b2 16e3 8#d3 8-"
+  },
+  {
+    "title": "Pink: Family Portrait",
+    "bpm": 90,
+    "song": "8c2 8#d2 8.g2 32#d2 32f2 4g2 8f2 8#d2 8c2 8#d2 8.g2 32#d2 32f2 8.g2 16#d2 8f2 8#d2 8c2 8#d2 8.g2 32#d2 32f2 4g2 8f2 4.#d2 8d2 16#d2 8d2 16#d2 4d2 16- 32f2 32#d2 8d2 8#d2 8.g2 32#d2 32f2 4g2 8f2 8#d2 8c2 8#d2 8.g2 32#d2 32f2 8.g2 16#d2 8f2 8#d2 8c2 8#d2 8.g2 32#d2 32f2 4g2 8f2 4.#d2 8d2 16#d2 8d2 16#d2 4d2"
+  },
+  {
+    "title": "Pink Panter",
+    "bpm": 100,
+    "song": "8#g1 2a1 8b1 2c2 8#g1 8a1 8b1 8c2 8f2 8e2 8a1 8c2 8e2 2#d2 16d2 16c2 16a1 8g1 1a1 8#g1 2a1 8b1 2c2 8#g1 8a1 8b1 8c2 8f2 8e2 8c2 8e2 8a2 1#g2 8#g1 2a1 8b1 2c2 16#g1 8a1 8b1 8c2 8f2 8e2 8a1 8c2 8e2 2#d2 8d2 16c2 16a1"
+  },
+  {
+    "title": "Popcorn",
+    "bpm": 70,
+    "song": "16g2 16f2 16g2 16d2 16#a1 16d2 8g1 16g2 16f2 16g2 16d2 16#a1 16d2 8g1 16g2 16a2 16#a2 32g2 16#a2 32g2 16#a2 16a2 32f2 16a2 32f2 16a2 16g2 16f2 16d2 16f2 8g2"
+  },
+  {
+    "title": "Proasteia Stereo Nova",
+    "bpm": 112,
+    "song": "8a2 8e3 16a2 8e3 16a2 8e3 16a2 8e3 16a2 8e3 8f2 8c3 16f2 8c3 16f2 8d3 16g2 8d3 16g2 8d3 2-"
+  },
+  {
+    "title": "Pulp Fiction",
+    "bpm": 113,
+    "song": "16f1 16f1 16f1 16f1 16f1 16f1 16f1 16f1 16a1 16a1 16a1 16a1 16#a1 16#a1 16#a1 16#a1 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16f1 16e2 16e2 16e2 16e2 16#c2 16#c2 16#c2 16#c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2 16c2"
+  },
+  {
+    "title": "Queen: We Are The Champions",
+    "bpm": 63,
+    "song": "2d2 8#c2 8d2 4#c2 4a1 8#f1 4b1 2#f1 8a1 2d2 8e2 8#f2 4a2 4#f2 16b1 2b1 4b1 4a1 8b1 4a1 4g1 4g2 4#f2 8g2 4#f2 4e2 4#f2 4d2 8g2 4#f2 4d2 8g2 4f2 4d2 8g2 4f2 2d2 8c2 8a1"
+  },
+  {
+    "title": "Radio Activity",
+    "bpm": 200,
+    "song": "4e1 4a1 4- 4a1 4e1 4a1 4e1 4- 4e1 4c2 4- 4b1 4a1 2- 4c1 4f1 4- 4f1 4c1 4f1 4c1 4- 4c1 4a1 4- 4g1 4f1"
+  },
+  {
+    "title": "Reality",
+    "bpm": 80,
+    "song": "2#f2 8a1 8g2 4#f2 16e2 16d2 2#f2 8a1 8g2 4#f2 16e2 16d2 2#f2 2#c2 16b2 2#f2 8b1 8#c2 8d2 8#f2 8e2 16e2 8#d2 2e2 8e2 8b2 8a2 16a2 16#g2 2a2 8d2 8a2 8g2 16g2 16#f2 2g2 16#f2 2e2 2#f2 8a1 8g2 4#f2 16e2 16d2 2#f2 8a1 8g2 4#f2 16e2 16d2"
+  },
+  {
+    "title": "Reedpipe",
+    "bpm": 70,
+    "song": "16#g1 16g1 16#g1 16g1 8#g1 8g1 8#a1 32#g1 32c2 32#d2 32#g2 4c2 16#c2 16c2 16#c2 16c2 16#a2 16#g2 16#d2 16c2 8#g1 32#g2 2g2 16f2 16f1 16f1 32f1 32g1 8f1 8#d1 16f2 16f1 16f1 32f1 32g1 8f1 8#d1 16#g2 16#g1 16#g1 16#g1 32#g1 16g1 16#a1 16#g1 32#g1 16g1 16f1 16#d1 8#c2"
+  },
+  {
+    "title": "Rick Garcia: Another Party",
+    "bpm": 125,
+    "song": "8e1 16- 16e1 8g1 8b1 8a1 8g1 8a1 8g1 8d1 16- 16d1 8#f1 8a1 8g1 8#f1 8e1 8- 8e1 16- 16e1 8g1 8b1 8a1 8g1 8a1 8g1 8d1 16- 16d1 8#f1 8a1 8g1 8b1 8e2"
+  },
+  {
+    "title": "Ricky Martin: Livin La Vida Loca",
+    "bpm": 160,
+    "song": "16a1 8- 16- 4a1 16- 32- 8f1 8g1 16#a1 8- 16- 16#a1 8- 16- 4a1 4- 8- 16a1 8- 16- 4a1 16- 32- 8f1 8e1 8g1 8- 8g1 8- 4f1 4- 8- 16a1 8- 16- 4a1 8- 8f1 8g1 16#a1 8- 16- 16#a1 8- 16- 4a1 4- 8- 16a1 8- 16- 4a1 8- 8f1 8e1 16g1 8- 16- 8g1 8- 4f1 8-"
+  },
+  {
+    "title": "Rikasmiesjos",
+    "bpm": 160,
+    "song": "8g1 8f1 8g1 8f1 4e1 4c1 4- 8e1 8f1 8g1 8f1 8g1 8f1 8e1 8f1 8g1 8a1 8#a1 8a1 8#a1 8a1 4g1 4- 4#g1 4g1 4#f1 4f1 8#d1 8d1 8c1 8d1 4#d1 4- 8#d1 8d1 8c1 8d1 4#d1 4c1 4g1 4-"
+  },
+  {
+    "title": "Robert Miles: Children",
+    "bpm": 112,
+    "song": "8- 4f3 1- 4#g3 8g3 4#d3 1- 4#g3 8g3 4c3 1- 4#g3 8g3 4#g2 1- 16f2 16g2 16#g2 16c3 4f3 1- 4#g3 8g3 4#d3 1- 16#c3 16c3 4#c3 8c3 4#g2 2- 4g2 4#g2 8c3 4f2"
+  },
+  {
+    "title": "Saints",
+    "bpm": 125,
+    "song": "8c1 8e1 8f1 2g1 8c1 8e1 8f1 2g1 8c1 8e1 8f1 4g1 4e1 4c1 4e1 2d1 8- 8e1 8d1 4c1 8c1 4e1 4g1 8g1 2f1 8a1 8a1 4g1 4e1 4c1 4d1 2c1"
+  },
+  {
+    "title": "Sash: Equador",
+    "bpm": 140,
+    "song": "8g2 8d2 8#a2 8a2 8c3 8a2 8f2 8g2 8d2 8#a2 8a2 8c3 8a2 8f2 8#a2 8f2 8d3 8c3 8d3 8c3 8a2 8#a2 8g2 8#a2 8a2 8#a2 8a2 8f2"
+  },
+  {
+    "title": "Scooby Doo",
+    "bpm": 160,
+    "song": "8e2 8e2 8d2 8d2 2c2 8d2 4e2 2a1 8a1 4b1 4g1 4e2 8d2 4c2 8d2 2e2 4- 8e2 8e2 8d2 8d2 2c2 8d2 4f2 2a1 8a1 4b1 4g1 4e2 8d2 2c2"
+  },
+  {
+    "title": "Scoop: Drop It v1",
+    "bpm": 140,
+    "song": "8c2 16b1 8- 16g1 8- 8c2 8b1 16e1 8- 16- 8c2 16b1 8- 16a1 8- 8c2 8b1 16a1 8- 16- 8c2 16b1 8- 16g1 8- 8c2 8b1 16e1 8- 16- 8c2 16b1 8- 16a1 8- 8c2 8b1 16a1"
+  },
+  {
+    "title": "Scoop: Drop It v2",
+    "bpm": 140,
+    "song": "16g1 16a1 16g1 8c2 8- 8c2 16a1 8b1 16- 8b1 16- 16g1 16a1 16g1 8a1 8- 8a1 16c2 8a1 16- 8a1 16- 16g1 16a1 16g1 8c2 8- 8c2 16a1 8b1 16- 8b1 16- 16g1 16a1 16g1 8a1 8- 8a1 16c2 8a1 16- 8a1"
+  },
+  {
+    "title": "Shoop Shoop Song",
+    "bpm": 125,
+    "song": "4g1 4g1 4g1 4g1 4f1 8f1 8#d1 8f1 8#d1 4c1 4g1 8g1 8g1 4g1 8g1 8g1 4b1 8g1 4g1 8e1 8d1 8f1 4e1 4d1"
+  },
+  {
+    "title": "Shakira: Underneath Your Clothes",
+    "bpm": 80,
+    "song": "16.c1 32- 32#c1 32- 4.#d1 8- 16- 16.#d1 32- 16#d1 16- 8#d1 8c1 4#a1 16#g1 16- 4c1 16c1 16- 8c1 16.#a1 32- 16#d1 16#a1 8.c1 16- 16#d1 16- 8#d1 8- 8#c1 8- 32#a1 16- 32- 8#a1 8#c1 16c1 16#a1 8#g1 8- 16#g1 16- 8#g1"
+  },
+  {
+    "title": "Shakira: Whenever Wherever",
+    "bpm": 112,
+    "song": "16#g1 4.#g1 16#f1 4.- 16a1 4.a1 16#g1 4.- 16#g1 4.#g1 4e1 4#f1 4#f1 4#f1 4e1 4#c1 16#c1 4.e1 4e1 4#c1 4#c1 4e1 4#c1 4- 16b1 4.b1 4b1 4b1 4a1 4#g1 4- 16#g1 4.#g1 16#f1 4.- 16a1 4.a1 16#g1 4.- 16#g1 4.#g1 4e1 4#f1 4#f1 4#f1 4e1 4#c1 16#c1 4.e1 4e1 4#c1 4#c1 4e1 4#c1 4- 16b1 4.b1 4b1 4b1 4a1 4#g1"
+  },
+  {
+    "title": "Silent Night:",
+    "bpm": 160,
+    "song": "4.g1 8a1 4g1 2.e1 4.g1 8a1 4g1 2.e1 2d2 4d2 2.b1 2c2 4c2 2.g1"
+  },
+  {
+    "title": "Simpsons v1",
+    "bpm": 160,
+    "song": "4c2 4e2 4#f2 8a2 4.g2 4e2 4c2 8a1 8#f1 8#f1 8#f1 2g1 4- 8#f1 8#f1 8#f1 8g1 4#a1 8c2 8c2 8c2 4c2"
+  },
+  {
+    "title": "Simpsons v2",
+    "bpm": 160,
+    "song": "8c2 8a1 4- 8c2 8a2 4- 8c2 8a1 8c2 8a1 8c2 8a2 4- 8- 8c2 8d2 8e2 8- 8e2 8f2 8g2 4- 8d2 8c2 4d2 8f2 4#a2 4a2 2c3"
+  },
+  {
+    "title": "Sisqo: Thong Song",
+    "bpm": 125,
+    "song": "8c1 8- 8d1 8- 4#d1 8#a1 8- 4#g1 4g1 2f1 8#g1 16#g1 16#g1 16#g1 16g1 8f1 16#d1 16c1 8- 8g1 8- 4g1 16g1 16f1  16#d1 8g1 4- 8#d1 4g1 8#d1 8f1 2c1"
+  },
+  {
+    "title": "Smoke on the Water",
+    "bpm": 112,
+    "song": "4c1 4#d1 4.f1 4c1 4#d1 8#f1 4f1 4- 4c1 4#d1 4.f1 4#d1 4c1 2- 8- 4c1 4#d1 4.f1 4c1 4#d1 8#f1 4f1 4- 4c1 4#d1 4.f1 4#d1 4c1 4-"
+  },
+  {
+    "title": "Soap",
+    "bpm": 125,
+    "song": "4g1 8a1 8c2 8- 8a1 4c2 4- 8a1 8g1 8e1 8c1 4- 4g1 8a1 8c2 4- 4b1 4- 8a1 8g1 8e1 8#c1 2- 4- 8a1 8c2 2- 4- 8a1 8g1 2- 8a1 8g1 8e1 4c1"
+  },
+  {
+    "title": "South Park: Uncle F**ka",
+    "bpm": 160,
+    "song": "8e2 8e2 8e2 8e2 4e2 8d2 8c2 8a1 2c2 8- 8c2 8d2 8e2 8e2 8e2 8e2 8e2 8e2 8d2 8c2 8a1 2c2 8- 8c2 8c2 8d2 8d2 8d2 8b1 8c2 8d2 8e2 16- 16e2 16f2 16f2 8e2 8d2 8c2 8b1 8c2 8d2"
+  },
+  {
+    "title": "Spice Girls: Viva Forever",
+    "bpm": 80,
+    "song": "8b1 8b1 8b1 16b1 4a1 2b1 8b1 8b1 8d2 16d2 2b1 16d2 16d2 16d2 8c2 8c2 16c2 16b1 16b1 16b1 8a1 8a1 16g1 8b1 8b1 8b1 16c2 2b1 2e2 2#f2 4g2 2b2 2#f2 2g2 2a2 4b2 2b2 4a2 2g2 2e2 8#f2 16g2 4#f2 2d2 8e2 16#f2 4e2 2c2 8d2 16c2"
+  },
+  {
+    "title": "Spice Girls: Wanna Be",
+    "bpm": 125,
+    "song": "16g1 16g1 16g1 16g1 8g1 8a1 8g1 8e1 8- 16c1 16d1 16c1 8d1 8d1 8c1 4e1 4- 8g1 8g1 8g1 8a1 8g1 8e1 8- 4c2 8c2 8b1 8g1 8a1 16b1 16a1 4g1"
+  },
+  {
+    "title": "Stars On Studio54",
+    "bpm": 125,
+    "song": "4f2 4e2 4f2 4g2 4f2 4c2 2f2 8#d2 8#d2 4#d2 4d2 4d2 8c2 1c2 4f2 4e2 4f2 4g2 4f2 4c2 2f2 8#d2 8#d2 4#d2 8d2 8d2 8d2 4c2 1c2 8c2 8c2 4c2 4d2 1#d2 8d2 8#d2 8g2 4f2 2f2 4g2 4a2 4g2 4f2 4g2 2f2 2d1 4f2 8e2 2d2 4d2"
+  },
+  {
+    "title": "StarTrek",
+    "bpm": 63,
+    "song": "8f1 16#a1 4#d2 8d2 16#a1 16g1 16c2 2f2"
+  },
+  {
+    "title": "Starwars",
+    "bpm": 100,
+    "song": "8#c1 8#c1 16#c1 2#f1 2#c2 8b1 16#a1 8#g1 2#f2 4#c2 8b1 16#a1 8#g1 2#f2 4#c2 8b1 16#a1 8b1 2#g1 8#c1 8#c1 16#c1 2#f1 2#c2 8b1 16#a1 8#g1 2#f2 4#c2 8b1 16#a1 8#g1 2#f2 4#c2 8b1 16#a1 8b1 2#g1 4#c1 16#c1 2#d1 8#c2 8b1 8#a1 8#g1 8#f1 16#f1 8#g1 16#a1 4#g1"
+  },
+  {
+    "title": "Starwars: Imperial March",
+    "bpm": 100,
+    "song": "4e1 4e1 4e1 8c1 16- 16g1 4e1 8c1 16- 16g1 4e1 4- 4b1 4b1 4b1 8c2 16- 16g1 4#d1 8c1 16- 16g1 4e1 8-"
+  },
+  {
+    "title": "Storm: Time to Burn",
+    "bpm": 180,
+    "song": "4f1 16- 4f1 16- 4a1 16- 8a1 32- 4d2 16- 8d1 32- 8d2 32- 8d1 32- 8d2 32- 8d1 32- 8d2 32- 8d1 32- 4f1 16- 4f1 16- 4a1 16- 8a1 32- 4d2 16- 8d1 32- 8d2 32- 8d1 32- 8d2 32- 8d1 32- 8d2 32- 8d1 32-"
+  },
+  {
+    "title": "Superman",
+    "bpm": 180,
+    "song": "8g1 8g1 8g1 4c2 8c2 2g2 8- 8g2 8.a2 16g2 8f2 1g2 8- 8g1 8g1 8g1 4c2 8c2 2g2 8- 8g2 8.a2 16g2 8f2 8a2 2.g2 4- 8c2 8c2 8c2 2.b2 4.g2 8c2 8c2 8c2 2.b2 4.g2 8c2 8c2 8c2 8b2 8a2 8b2 2c3 8c2 8c2 8c2 8c2 8c2 2c2"
+  },
+  {
+    "title": "Surfaris: Wipeout",
+    "bpm": 160,
+    "song": "8g1 8#a1 8b1 8c2 8c2 8c2 8#a1 8g1 8g1 8#a1 8b1 8c2 8c2 8c2 8#a1 8g1 8g1 8#d2 8e2 8f2 8f2 8f2 8#d2 8c2 8c2 8#d2 8e2 8f2 8f2 8f2 8#d2 8c2 8c2 8#a1 8b1 8c2 8c2"
+  },
+  {
+    "title": "Susanna",
+    "bpm": 100,
+    "song": "16f2 16g2 8a2 8c3 8c3 16d3 8c3 8a2 8f2 16g2 8a2 8a2 8g2 8f2 4g2 8- 16f2 16g2 8a2 8c3 8c3 16d3 8c3 8a2 8f2 16g2 8a2 8a2 8g2 8g2 4f2"
+  },
+  {
+    "title": "Tears In Heaven",
+    "bpm": 100,
+    "song": "4- 8b1 8g1 4d2 8d2 8b1 16a1 4g1 2- 4- 8c2 8c2 8b1 8a1 8g1 4b1 2a1"
+  },
+  {
+    "title": "Teletubbies Say Eh Oh:",
+    "bpm": 125,
+    "song": "16.g1 8- 16g1 8e1 4.g1 8- 4a1 2.f1 16.g1 8- 16g1 8e1 4.g1 8- 2.d1 16.g1 8- 16g1 8e1 4.g1 8- 4a1 2.f1 2g1 2b1 2.c2"
+  },
+  {
+    "title": "The Color Of The Night",
+    "bpm": 80,
+    "song": "2#g2 8c2 2#c2 4g2 8#g2 4#a2 8c2 8#a1 2#g1 2f2 8#g1 2g1 8f2 16e2 8f2 2g2 2#g2 8c2 2#c2 4g2 8#g2 4#a2 8c2 8#a1 2#g1 2f2 8#g1 2g1 8f2 8e2 8f2 2g2 8#a1 8c2 8c2 4c2 4#c2 2#a2 8#a1 8#a2 8#a2 4#a2 4c2 4#a2 8#g2 4g2 2#g2 8c2 8c2 4c2"
+  },
+  {
+    "title": "The Sweeny",
+    "bpm": 125,
+    "song": "16a1 8c2 4a1 4- 16a1 8e2 2d2 4- 8- 4c2 8c2 16a1 8c2 4e2 8d2 16a1 4c2 8d2 16a1 8c2 4a1 4- 16a1 8e2 2d2 4- 8- 4e2 8e2 16#d2 8e2 4f2 4c2 4b2 4a2 2f2 4c2 8g2 1f2"
+  },
+  {
+    "title": "Those Were the Days...:",
+    "bpm": 200,
+    "song": "2c2 2c2 2b1 2b1 4a1 2a1 4a1 4a1 4g1 2g1 4f1 2f1 4d1 4e1 4f1 2.g1 4a1 4.b1 8a1 8g1 4.f1 1e1 4- 4c1 4d1 4e1 2g1 4f1 2f1 4f1 4g1 4a1 2d2 4c2 2c2 4a1 4b1 4c2 2.e2 4d2 4c2 4b1 4a1 4#g1 1a1"
+  },
+  {
+    "title": "Thunderbirds",
+    "bpm": 125,
+    "song": "8#g1 16f1 16#g1 4#a1 8- 16#d1 16f1 8#g1 8#a1 8#d2 16f2 16c2 8#d2 8f2 2#a1 8#g1 16f1 16#g1 4#a1 8- 16#d1 16f1 8#g1 8#a1 8#d2 16f2 16c2 8#d2 8f2 2g2 8g2 16a2 16e2 4g2 8- 16e2 16d2 8c2 8b1 8a1 16b1 8c2 8e2 2d2"
+  },
+  {
+    "title": "Tight Fit: Lion Sleeps Tonight (Ah Whimoweh):",
+    "bpm": 125,
+    "song": "4g2 8a2 4b2 4a2 8b2 4c3 8b2 4a2 4.g2 8b2 4d2 4d2 8d2 1d2 4- 4g2 8a2 4b2 4a2 8b2 4c3 8b2 4a2 4.g2 8b2 4d2 4d2 8d2 1d2 4-"
+  },
+  {
+    "title": "Time to Say Goodbye",
+    "bpm": 80,
+    "song": "8c1 16d1 16e1 16d1 16e1 16#f1 16g1 16#f1 16g1 16a1 16g1 16e1 16a1 16b1 16c2 4b1"
+  },
+  {
+    "title": "TLC: No Scrubs",
+    "bpm": 180,
+    "song": "8#g1 8#a1 8b1 2e2 16- 8#g1 8#g1 8b1 2#d2 16- 8#d1 8g1 8#a1 2#c2 16- 8#g1 8#a1 8b1 2#d2 16- 8#g1 8#a1 8b1 2e2 16- 8#g1 8#g1 8b1 2#d2 16- 8#d1 8g1 8#a1 4.#c2 16- 8#f2 8e2 8#d2 8#c2 2#d2"
+  },
+  {
+    "title": "Tom jones & Mousse T: Sex Bomb",
+    "bpm": 125,
+    "song": "8c2 8- 4a1 8c2 8- 4a1 8- 4d2 8c2 4e2 16c2 16d2 4e2 4c2 8c2 8c2 8c2 8c2 8c2 8c2 8a1 8c2 8a1 8a1 8g1 4a1 8c2 8- 4a1 8c2 8- 4a1 8- 4d2 8c2 4e2 4c2 8- 4c2 8a1 8c2 8a1 8g1 16- 8#g1 16- 4a1"
+  },
+  {
+    "title": "Top Of The World",
+    "bpm": 125,
+    "song": "4#d1 8c2 4#a1 4#g1 4g1 16#g1 4f1 4g1 1#d1 4c2 8#c2 4#d2 16#d2 4#d2 4c2 4#a1 4c2 8#c2 4#a1 1c2 4#c2 4#d2 4f2 4f2 4#c2 2#a1 4#a1 4f2 2#d2 8#c2 4#d2 2c2 8#a1 2c2 4#c2 4#c2 8c2 4#c2 4c2 4#a1 8#g1 1#d1 4#d1 4c2 4#a1 4#g1 4g1 4#g1 4f1 8g1"
+  },
+  {
+    "title": "Toybox: Tarzan And Jane",
+    "bpm": 70,
+    "song": "16#d1 8#c2 8#c2 16c2 16c2 8#d2 8#d2 16c2 2#a1 8#c2 8#c2 16c2 16c2 8#d2 8#d2 16c2 2#a1 8c2 16c2 16#g1 8#c2 8#c2 8#d2 16#d2 16#a1 4c2 8#g1 8#g1 8#c2 16#c2 16c2 8#a1 16c2 2#a1 8c2 16c2 16#g1 8#c2 8#c2 8#d2 16#d2 16#a1 4c2 16f1 16#g1 16#g1 16#g1 16f1 8#c2 8c2"
+  },
+  {
+    "title": "Tubular Bells:",
+    "bpm": 225,
+    "song": "4c2 4f2 4c2 4g2 4c2 4#d2 4f2 4c2 4#g2 4c2 4#a2 4c2 4g2 4#g2 4c2 4g2 4c2 4f2 4c2 4g2 4c2 4#d2 4f2 4c2 4#g2 4c2 4#a2 4c2 4g2 4#g2 4c2 4g2 4c2 4f2 4c2 4g2 4c2 4#d2 4f2 4c2 4#g2 4c2 4#a2 4c2 4g2 4#g2 4c2 4g2 4c2 4f2 4c2 4g2 4c2 4#d2 4f2 4c2 4#g2 4c2 4#a2 4c2 4g2 4#g2 4c2 4g2"
+  },
+  {
+    "title": "Venga Boys: Boom Boom Boom",
+    "bpm": 70,
+    "song": "8#a1 16g1 16f1 8#a1 16g1 16f1 16d2 16#d2 16d2 16#d2 16f2 16d2 8#a1 8#a1 16g1 16f1 8#a1 16g1 4f1 8d2 8d2 8c2 4#a1 16f1 16f1 16f1 16c2 16c2 4#a1 16g1 16g1 16g1 16#a1 16c2 8d2 8#a1 16#d1 16#d1 16#d1 16#d1 16#d1 8d1 32#a1 8d2 8d2 8c2 4#a1 16f1 16f1 16f1"
+  },
+  {
+    "title": "Venga Boys: Going to Ibiza",
+    "bpm": 112,
+    "song": "2f1 8a1 8#a1 8c2 8f1 2#a1 16a2 16f2 16a2 16f2 16a2 16f2 16a2 16f2 2f1 8a1 8#a1 8c2 8f1 2#a1 16a2 16f2 16a2 16f2 16a2 16f2 16a2 16f2 4f1 8- 8f1 8f1 8f1 8g1 16g1 8g1 16- 4f1"
+  },
+  {
+    "title": "Verve: Bittersweet Symphony v1",
+    "bpm": 180,
+    "song": "4- 4e1 4g1 4e1 4f1 4d1 2f1 4#a1 4f1 2#a1 4a1 4f1 2a1 4- 4e1 4g1 4e1 4f1 4d1 2f1 4#a1 4f1 2#a1 4a1 4f1 2a1"
+  },
+  {
+    "title": "Verve: Bittersweet Symphony v2",
+    "bpm": 225,
+    "song": "8#g1 8b1 8#g1 4a1 4- 4#f1 4- 8a1 2- 4d2 4- 4a1 4- 8d2 2- 4#c2 4- 4a1 4- 8#c2"
+  },
+  {
+    "title": "Village People: Y.M.C.A. v1",
+    "bpm": 80,
+    "song": "16#f2 2#d2 16#d2 16#c2 16b1 16#c2 16#d2 8#f2 16#d2 8#f2 16#g2 2#d2 16#d2 16#c2 16b1 16#c2 16#d2 8#f2 16#d2 8#f2 16#g2 2e2 16e2 16#d2 16#c2 16#d2 16e2 8#g2 16b2 8#g2 4#a2 4#g2 4#f2 4e2 8#d2 8#c2"
+  },
+  {
+    "title": "Village People: Y.M.C.A. v2",
+    "bpm": 160,
+    "song": "8#c2 8#a1 2- 8#a1 8#g1 8#f1 8#g1 8#a1 4#c2 8#a1 4#c2 8#d2 8#a1 2- 8#a1 8#g1 8#f1 8#g1 8#a1 4#c2 8#a1 4#c2 8#d2 8b1 2- 8b1 8#a1 8#g1 8#a1 8b1 4#d2 8#f2 4#d2 4.f2 4.#d2 4.#c2 4.b1 4#a1 4#g1"
+  },
+  {
+    "title": "Wales National Anthem",
+    "bpm": 63,
+    "song": "8c2 8e2 8d2 8c2 8g2 8f2 8e2 8c3 8c3 16a3 16b2 4c2 8a2 8g2 8e2 8c2 8c2 8b1 8c2 8e2 8d2 8d2 4d2 16e2 16f2 8g2 8g2 16e2 16f2 8g2 8g2 16a2 16b2 8c3 8c3 16a2 16b2 4c3 8a2 8g2 8e2 8c2 16d2 4e2 4d2 2c2"
+  },
+  {
+    "title": "Wedding March",
+    "bpm": 225,
+    "song": "8g2 4- 8#f2 4- 4b1 8e2 8d2 8c2 8a1 8g1 4#f1 4g1 8a1 8d1 8b1 4g1 4b1 4d2 4g1 4b1 4d2 8g2 4- 8#f2 4- 4b1 8e2 8d2 8c2 8a1 8g1 4#f1 4g1 8b1 4a1 4b1 8a1 4- 4g1 8g1"
+  },
+  {
+    "title": "Westlife: Flying Without Wings",
+    "bpm": 70,
+    "song": "16d2 8c2 16- 8b1 8a1 8g1 4e1 8- 8d2 8c2 8b1 16a1 8g1 16- 4a1 8- 8d2 8c2 8b1 16a1 8g1 16- 16b1 2g1"
+  },
+  {
+    "title": "Westlife: Fool Again",
+    "bpm": 80,
+    "song": "8#g1 4.e1 8- 16#g1 16#f1 8- 8e1 8#f1 4.#g1 8- 8#g1 8b1 8#g1 8#f1 4e1 16e1 16e1 16e1 16#c1 8e1 16e1 16#c1 8e1 2b2 4- 8#g1 4.e1 4- 8#f1 16e1 8#f1 2#g1 8#g1 8b1 8#g1 8#f1 4.e1 16#c1 8e1 8#f1 8#g1 8#f1 4.e1"
+  },
+  {
+    "title": "Westlife: My Love",
+    "bpm": 90,
+    "song": "8g1 8c2 16c2 4c2 16- 8g1 8d2 16d2 4d2 16- 8g1 8b1 8b1 8b1 8c2 4c2 8- 8g1 8a1 16a1 4a1 16- 8a1 8a1 8a1 8c2 8a1 8a1 4g1 16- 8- 8g1 8c2 16c2 4c2 16- 8g1 8d2 16d2 4d2 16- 8g1 8e2 8g2 8g2 8e2 8c2"
+  },
+  {
+    "title": "Will Smith: Men In Black",
+    "bpm": 112,
+    "song": "4f1 8#g1 16- 16#g1 8c2 8c2 8c2 1- 8c2 8#c2 8c2 8#g1 4#a1 4c2 8- 8c2 8#a1 16#g1 2- 4f1 8#g1 16- 16#g1 8c2 8c2 8c2 8- 4#a1 8#g1 4f1 4- 8- 8c2 8#c2 8c2 8#g1 4#a1 2c2"
+  },
+  {
+    "title": "Will Smith: Miami",
+    "bpm": 112,
+    "song": "4a2 4g2 4- 2e1 8- 16a1 16c2 16d2 16c2 8a1 4- 4a2 4g2 4- 4d2 8- 4e2 4- 8- 4a2 4g2 4- 2e1 8- 16a1 16c2 16d2 16c2 8a1 4- 4a2 4g2 4- 4d2 8- 4e2 8- 16a1 16c2 8d2"
+  },
+  {
+    "title": "Without You",
+    "bpm": 80,
+    "song": "8b1 4d2 4e2 8e2 4e2 8d2 4d2 4b1 4b1 4d2 4e2 4e2 4e2 8d2 4d2 2b1 8b1 8d2 4d2 4c2 4c2 4b1 4b1 4a1 4a1 4g1 2b1 4b1 4b1 4a1 4g1 8b1 4b1 4e2 4e2 4g2 4g2 4e2 2e2 8e2 4g2 8d2 8e2 2b1 8d2 8b1 8a1 8g1 8a1 8b1"
+  },
+  {
+    "title": "Wo Bi Shui Toe Ching Chu",
+    "bpm": 144,
+    "song": "4d1 4d2 4b1 4a1 4g1 2b1 4b1 4d2 4e2 4d2 4e2 2b1 4b1 4d2 2g2 4e2 4d2 4e2 4d2 4g1 4d2 4b1"
+  },
+  {
+    "title": "Woody Woodpecker",
+    "bpm": 80,
+    "song": "16#c1 16#f1 16#a1 16#c2 4#a1 8#c2 16#a1 8b1 16#c2 8b1 8#a1 8#g1 2#c2 8d2 8#d2 16d2 8#d2 8b1 8b1 16b1 8d2 8d2 8b1 8#a1 16b1 8#c2 8#c2 16b1 4#c2 2#a1 8#f1 16#g1 8#a1 16a1 8#a1 4#f1 8#f1 16#g1 8#a1 16a1 8#a1 4#f1 16#f1 8#g1 8#a1 8b1 8#c2 8b1 8#a1 2#g1"
+  },
+  {
+    "title": "Wrestling The Rock",
+    "bpm": 80,
+    "song": "4.f1 16g1 8g1 4#g1 8- 4.#d1 16#d1 8#a1 4#a1 8- 4.f1 16g1 8g1 4#g1 8- 4.#d1 16#d1 8#a1 8#a1 16#a1 8#g1 32- 4.f1 16g1 8g1 4#g1 8- 4.#d1 16#d1 8#a1 4#a1 8- 4.f1 16g1 8g1 4#g1 8- 2#d1"
+  },
+  {
+    "title": "X-Files",
+    "bpm": 125,
+    "song": "4e1 4b1 4a1 4b1 4d2 2b1 1- 4e1 4b1 4a1 4b1 4e2 2b1 1- 4g2 4#f2 4e2 4d2 4e2 2b1 1- 4g2 4#f2 4e2 4d2 4#f2 2b1 1- 4e1 4b1 4a1 4b1 4d2 2b1 1- 4e1 4b1 4a1 4b1 4e2 2b1 1- 4e2 2b1"
+  },
+  {
+    "title": "Yesterday Once More",
+    "bpm": 80,
+    "song": "8b1 8b1 8#c2 4#d2 4#f2 8#f2 8#d2 8#f2 8#d2 8#g2 4#f2 2#d2 8#d2 8#f2 4#g2 4#a2 8#d2 4#f2 2#g2 4#a2 4#c2 8b2 4#a2 4#g2 8#a2 8b2 8#a2 8b2 4#a2 2#g2 8#g2 8#a2 4b2 4b2 8#g2 4b2 2#c2 4b2 4#c2 8#d2 8#d2 8#d2 2#d2 8#c2 8b2 8#a2 8b2 8#a2 2#g2 8#d2"
+  },
+  {
+    "title": "You Are My Everything",
+    "bpm": 100,
+    "song": "8#d2 8f2 4#g2 32#f2 32f2 2#d2 4#a1 32c2 4#c2 32#d2 32#c2 2c2 4#a1 4c2 2#c2 8f1 4f1 8f2 8f2 8#d2 16#d2 8#c2 8#c2 8c2 16c2 8#a1 2c2 8f1 2f1 8#d2 8#d2 16#c2 8#c2 8c2 8c2 4#a1 16#a1 8#g1 32#g1 2#a1 16#a1 16c2 8#c2 2#a1 2#g1 16#g1 8#d1 32#d1 2f1"
+  },
+  {
+    "title": "Zelda: Original Theme",
+    "bpm": 200,
+    "song": "2#a1 2f1 4- 8#a1 8c2 8d2 8#d2 2f2 2- 4f2 4f2 8#f2 8#g2 2#a2 2- 4#a2 8#a2 8- 8#g2 8#f2 4#g2 8#f2 2f2 2- 2f2 4#d2 8#d2 8f2 2#f2 2- 4f2 4#d2 4#c2 8#c2 8#d2 2f2 2- 4#d2 4#c2 4c2 8c2 8d2 2e2 2- 2g2 1f2"
+  },
+  {
+    "title": "Zombie Nation: Kernkraft 400",
+    "bpm": 140,
+    "song": "8c2 8#d2 8f2 8g2 8c2 8c1 8c2 8c1 8c2 8#d2 8f2 8g2 8#g2 8g2 8#d2 8f2 8f2 8c1 8f2 8#d2 8c1 8g2 8c2 8c1 8c1 8c2 8- 8c2 8- 8c2 8- 8c2"
+  }
+]
