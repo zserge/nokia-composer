@@ -53,7 +53,6 @@
       // Load song from the URL
       try {
         const data = JSON.parse(atob(location.hash.slice(1)));
-        console.log(data);
         bpm.value = data.bpm;
         song.innerText = data.song;
       } catch (ignored) {
