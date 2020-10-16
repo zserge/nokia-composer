@@ -1,0 +1,32 @@
+{
+  "name": "nokia-composer",
+  "version": "1.0.0",
+  "description": "Minimal music composer, inspired by rtttl and nokia",
+  "main": "index.html",
+  "scripts": {
+    "build": "terser --mangle --ecma 7 < n.js > n.min.js",
+    "serve": "sirv --host",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zserge/nokia-composer.git"
+  },
+  "keywords": [
+    "rtttl",
+    "music",
+    "nokia",
+    "ringtone",
+    "webaudio"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zserge/nokia-composer/issues"
+  },
+  "homepage": "https://github.com/zserge/nokia-composer#readme",
+  "devDependencies": {
+    "sirv-cli": "^1.0.6",
+    "terser": "^5.3.5"
+  }
+}
