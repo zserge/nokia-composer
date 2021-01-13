@@ -27,12 +27,20 @@
         width: 15rem;
         margin: 4rem auto;
       }
+      input::-webkit-outer-spin-button,
+      input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+      }
+      input[type=number] {
+        -moz-appearance: textfield;
+      }
     </style>
   </head>
   <body>
     <div style="display:flex;flex-direction:column;align-items:stretch;">
       <div style="display:flex;margin-bottom:1rem;">
-        <label for="bpm">BPM:</label><input id="bpm" value="120" size="3" />
+        <label for="bpm">BPM:<input id="bpm" value="120" size="3" type="number" min="1" max="800" /></label>
         <span style="flex:1"></span>
         <a target="_blank" href="h/">?</a>
       </div>
