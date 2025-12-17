@@ -88,7 +88,11 @@
           btn.innerText = 'Play';
         } else {
           btn.innerText = 'Stop';
-          play(song.innerText, c(bpm.value, 40, 400));
+          const t = play(song.innerText, c(bpm.value, 40, 400));
+          setTimeout(() => {
+            stop();
+            btn.innerText = 'Play';
+          }, t * 1000);
         }
       }
     </script>

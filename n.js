@@ -23,4 +23,5 @@ play = (s, bpm) => {
     v(g.gain, 0);
     t = t + d*3;
   }
+  return t;
 };
