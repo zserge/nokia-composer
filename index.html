@@ -52,6 +52,13 @@
         onclick="togglePlayback()"
         >Play</a
       >
+      <a
+        id="dl"
+        style="margin:0 1rem 1rem;text-align:center;"
+        href="javascript:void(0)"
+        onclick="save(song.innerText, c(bpm.value, 40, 400))"
+        >Download</a
+      >
     </div>
     <script>
       // This is a little shim to make the composer a bit more usable

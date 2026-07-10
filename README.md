@@ -1,2 +1,2 @@
 # nokia-composer
-Nokia Composer in 512 bytes
+Nokia Composer and Downloader in 1291 bytes
